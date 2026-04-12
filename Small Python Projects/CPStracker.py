@@ -1,3 +1,6 @@
+# This is a CPS tracker. It uses a GUI and time to track the amount of Clicks Per Second
+# @author Jacob McLain
+
 import tkinter as tk
 import time
 
@@ -12,6 +15,7 @@ def register_click():
     now = time.time()
     click_times.append(now)
 
+# Method for updating the cps
 def update_cps():
     now = time.time()
 

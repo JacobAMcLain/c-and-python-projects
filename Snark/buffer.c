@@ -20,17 +20,21 @@
 Buffer *makeBuffer()
 {
     Buffer *b = malloc(sizeof(Buffer));
+
     if(!b) {
         return NULL;
     }
+
     b->len = 0;
     b->cap = INITIAL_CAP;
     b->pos = 0;
     b->data = malloc(b->cap * sizeof(byte));
+
     if(!b->data) { 
         free(b); 
         return NULL; 
     }
+
     return b;
 
 }
@@ -44,6 +48,7 @@ void freeBuffer( Buffer *buf )
     if(!buf) {
         return;
     }
+
     free(buf->data);
     free(buf);
 }
@@ -61,6 +66,7 @@ void appendByte( Buffer *buf, byte val )
         byte *newList = realloc(buf->data, buf->cap * sizeof(byte));
         buf->data = newList;
     }
+
     buf->data[buf->len++] = val;
 }
 /**
@@ -76,6 +82,7 @@ void appendByte( Buffer *buf, byte val )
 void appendBytes( Buffer *buf, void *seq, int n )
 {
     byte *bytes = (byte *)seq;
+    
     for(int i = 0; i < n; i++) {
         if (buf->len >= buf->cap) {
             buf->cap *= 2;
@@ -83,16 +90,16 @@ void appendBytes( Buffer *buf, void *seq, int n )
             buf->data = newList;
 
         }
+
         buf->data[buf->len++] = bytes[i]; 
+
     }
 }
 /**
 * This function is for accessing the buffer’s contents
 * sequentially. It copies the byte at index pos to the
 * given val pointer and moves pos ahead by one. The return
-* value is for handling buffer overflow. The there is no
-* byte at position pos in the buffer (because you have already
-* extracted everything in the buffer), this function returns
+* value is for handling buffer overflow. This function returns
 * false and leaves the byte pointed to by val unmodified.
 * @param buf the buffer
 * @param val the value
@@ -100,9 +107,11 @@ void appendBytes( Buffer *buf, void *seq, int n )
 */
 bool extractByte( Buffer *buf, byte *val )
 {
+
     if(buf == NULL || val == NULL || buf->pos >= buf->len) {
         return false;
     }
+
     *val = buf->data[buf->pos++];
     return true;
 }

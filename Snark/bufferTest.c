@@ -1,14 +1,14 @@
 /** 
-    @file bufferTest.c
-    @author dbsturgi
-    Unit tests for the buffer component.
+* Unit tests for the buffer component.
+* @file bufferTest.c
+* @author Jacob McLain
 */
 
 #include <stdlib.h>
 #include <stdio.h>
 #include "buffer.h"
 
-/** Total number or tests we tried. */
+/** Total number of tests */
 static int totalTests = 0;
 
 /** Number of test cases passed. */
@@ -33,11 +33,11 @@ static int passedTests = 0;
 }
 
 /** 
-    For comparing an array of bytes.
-    @param seqA One sequence of bytes to compare.
-    @param seqB Another sequence of bytes to compre against seqA.
-    @param len Number of bytes to compare.
-    @return True if the sequences are identical.
+  For comparing an array of bytes.
+  @param seqA One sequence of bytes to compare.
+  @param seqB Another sequence of bytes to compre against seqA.
+  @param len Number of bytes to compare.
+  @return True if the sequences are identical.
 */
 bool compareBytes( void const *seqA, void const *seqB, int len )
 {
@@ -48,16 +48,11 @@ bool compareBytes( void const *seqA, void const *seqB, int len )
 }
 
 /**
-   Top-level function for bufferTest.c the unit test.
-   @return exit status of the program, success if all tests pass.
+  Top-level function for bufferTest.c the unit test.
+  @return exit status of the program, success if all tests pass.
 */
 int main()
 {
-  // As you finish parts of your implementation, move this directive
-  // down past the blocks of code below.  That will enable tests of
-  // various functions you're expected to implement.
-  
-
   
   ////////////////////////////////////////////////////////////
   // Test(s) for makeBuffer()
@@ -173,8 +168,6 @@ int main()
     freeBuffer( b );
   }
   
-  // Once you move the #ifdef DISABLE_TESTS to here, you've enabled
-  // all the tests.
 #ifdef DISABLE_TESTS
 #endif
 

@@ -1,18 +1,23 @@
+/**
+* This tests the field.c class
+* @file fieldTest.c
+* @author Jacob McLain
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include "field.h"
 
-/** Number of tests we should have, if they're all turned on. */
+/** Number of tests, if they're all turned on */
 #define EXPECTED_TOTAL 10
 
-/** Total number or tests we tried. */
+/** Total number of tests */
 static int totalTests = 0;
 
-/** Number of test cases passed. */
+/** Number of test cases passed */
 static int passedTests = 0;
 
 /** Macro to check the condition on a test case, keep counts of
-    passed/failed tests and report a message if the test fails. */
+  passed/failed tests and report a message if the test fails. */
 #define TestCase( conditional ) {\
   totalTests += 1; \
   if ( conditional ) { \
@@ -24,12 +29,7 @@ static int passedTests = 0;
 
 int main()
 {
-  // As you finish parts of your implementation, move this directive
-  // down past the blocks of code below.  That will enable tests of
-  // various functions you're expected to implement.
   
-
-
   ////////////////////////////////////////////////////////////////////////
   // Test fieldAdd()
 
@@ -75,8 +75,6 @@ int main()
     TestCase( c == 0xF3 );
   }
 
-  // Once you move the #ifdef DISABLE_TESTS to here, you've enabled
-  // all the tests.
 #ifdef DISABLE_TESTS
 #endif
 

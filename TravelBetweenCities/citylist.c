@@ -48,30 +48,38 @@ void freeCityList(CityList *cityList) {
  * @param cityList a pointer to the cityList
  */
 void readCities(char const *filename, CityList *cityList) {
+
     FILE *fp = fopen(filename, "r");
+
     if(!fp) {
         fprintf(stderr, "Can't open file: %s\n", filename);
         fclose(fp);
         exit(EXIT_FAILURE);
     }
+
     char *str;
     City c;
+
     while((str = readLine(fp)) != NULL) {
         char shortString[strlen(str) + 1];
         sscanf(str, " %[^0-9]", shortString);
         c.name = malloc(strlen(shortString) + 1);
         strcpy(c.name, shortString);
+
         if(sscanf(str, "%*[^0-9]%lf %lf", &c.lat, &c.lon) != 2) {
             fprintf(stderr, "Invalid city file: %s\n", filename);
             free(str);
             fclose(fp);
             exit(EXIT_FAILURE);
         }
+
         if(cityList->count >= cityList->capacity) {
             cityList->capacity *= 2;
             cityList->list = realloc(cityList->list, cityList->capacity * sizeof(City));
         }
+
         cityList->list[cityList->count++] = c;
+        
         if(strlen(cityList->list[cityList->count - 1].name) > 20 ) {
             fprintf(stderr, "Invalid city file: %s\n", filename);
             free(str);

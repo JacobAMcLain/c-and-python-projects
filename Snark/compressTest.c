@@ -1,7 +1,7 @@
 /** 
-    @file compressTest.c
-    @author 
-    Unit tests for the compress.c component.
+* Unit tests for the compress.c component.
+* @file compressTest.c
+* @author Jacob McLain   
 */
 
 #include <stdlib.h>
@@ -9,10 +9,10 @@
 #include <string.h>
 #include "compress.h"
 
-/** Total number or tests we tried. */
+/** Total number of tests */
 static int totalTests = 0;
 
-/** Number of test cases passed. */
+/** Number of test cases passed */
 static int passedTests = 0;
 
 /** Macro to terminate the program when an error occurs in the test
@@ -54,11 +54,6 @@ bool compareBytes( void const *seqA, void const *seqB, int len )
 */
 int main()
 {
-  // As you finish parts of your implementation, move this directive
-  // down past the blocks of code below.  That will enable tests of
-  // various functions you're expected to implement.
-  
-
   
   ////////////////////////////////////////////////////////////
   // Test(s) for the serializeBlock() function.
@@ -393,8 +388,6 @@ int main()
     freeBuffer(block3);
   }
   
-  // Once you move the #ifdef DISABLE_TESTS to here, you've enabled
-  // all the tests.
 #ifdef DISABLE_TESTS
 #endif
 

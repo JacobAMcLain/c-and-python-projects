@@ -1,5 +1,10 @@
+# This is a simple program that consists of a controllable red ball on a black background.
+# (The user can control it using the arrow keys)
+# @author Jacob McLain
+
 import tkinter as tk
 
+# Basic GUI setup (black background)
 root = tk.Tk()
 root.title("Moving Circle")
 root.geometry("1920x1080")
@@ -8,6 +13,7 @@ root.configure(bg="black")
 canvas = tk.Canvas(root, width=1920, height=1080, bg="black")
 canvas.pack()
 
+# Making the circle
 pixel_size = 20
 circle_pattern = [
     [0,1,1,1,0],

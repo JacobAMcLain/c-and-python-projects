@@ -1,3 +1,7 @@
+# This is a simple program in which a user can enter 
+# in a list of numbers and a summary of the numbers is printed out
+# @author Jacob McLain
+
 print("Hello!!")
 print("This is a program in which I will read numbers and automatically sort them")
 

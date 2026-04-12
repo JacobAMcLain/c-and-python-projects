@@ -44,11 +44,11 @@ typedef struct {
 /**
 * This function writes out the contents of the given
 * block by adding it to the end of the given buffer.
-* You should write the block in the format described
-* at the end of the “Block Compression” section above.
 * Compressing a file could require multiple blocks,
 * so this function should add the compressed representation
 * of block to the end of the buffer, after anything that was previously in the buffer.
+* @param block the block
+* @param buf the buffer
 */
 void serializeBlock( Block *block, Buffer *buf );
 
@@ -64,6 +64,9 @@ void serializeBlock( Block *block, Buffer *buf );
 * multiple compressed blocks, so this function should
 * continue processing the contents of the buffer, picking
 * up from where a previous call to deserializeBlock() may have left off.
+* @param block the block
+* @param buf the buffer
+* @return T or F based on if the block is deserialized
 */
 bool deserializeBlock( Block *block, Buffer *buf );
 
@@ -75,6 +78,7 @@ bool deserializeBlock( Block *block, Buffer *buf );
 * replace it with the lowest-numbered available byte,
 * until there are no more available bytes or the most 
 * common byte pair has fewer than three occurrences.
+* @param block the block
 */
 void compressBlock( Block *block );
 
@@ -86,6 +90,8 @@ void compressBlock( Block *block );
 * function should undo each byte pair replacement in 
 * the block’s rule list, working from the end of the 
 * list to the start.
+* @param block the block
+* @return T or F based on if the block was uncompressed
 */
 bool uncompressBlock( Block *block );
 
@@ -96,6 +102,8 @@ bool uncompressBlock( Block *block );
 * may need to be compressed as more than one buffer.
 * If so, then the returned buffer will contain 
 * encodings of each block, stored consecutively.
+* @param src the buffer
+* @return The buffer the data was compressed into 
 */
 Buffer *compressData( Buffer *src );
 
@@ -104,6 +112,8 @@ Buffer *compressData( Buffer *src );
 * source buffer and returns it in a new destination 
 * buffer. If there is an error decompressing the
 * given buffer, it returns NULL.
+* @param src the buffer
+* @return the buffer that the data was uncompressed from
 */
 Buffer *uncompressData( Buffer *src );
 

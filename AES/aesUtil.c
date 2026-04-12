@@ -1,20 +1,19 @@
 /**
-   @file aesUtil.c
-   Implementaiton of utility functions used by AES.
-   @author dbsturgi
+*  Implementaiton of utility functions used by AES.
+*  @file aesUtil.c
+*  @author Jacob McLain
 */
 
 #include "aesUtil.h"
 
-/** Documented in the header. */
+/** Matrix of values used in the Mix Columns operation. */
 const byte forwardMixMatrix[ BLOCK_ROWS ][ BLOCK_COLS ] = {
   { 0x02, 0x03, 0x01, 0x01 },
   { 0x01, 0x02, 0x03, 0x01 },
   { 0x01, 0x01, 0x02, 0x03 },
   { 0x03, 0x01, 0x01, 0x02 }
 };
-
-/** Documented in the header. */
+/** Matrix of values used to invert the Mix Columns operation. */
 const byte inverseMixMatrix[ BLOCK_ROWS ][ BLOCK_COLS ] = {
   { 0x0E, 0x0B, 0x0D, 0x09 },
   { 0x09, 0x0E, 0x0B, 0x0D },
@@ -103,7 +102,7 @@ byte invSubstBox( byte v )
   // Return the (inverse) replaceent for v based on the map.
   return irule[ v ];
 }
-
+/** This is the gFunction that is used to create the unique key */
 void gFunction( byte dest[ WORD_SIZE ], byte const src[ WORD_SIZE ], int r )
 {
   // Constant values used in each round of the g function.

@@ -1,5 +1,8 @@
 /**
- */
+* This is the archive.c program. It makes, saves, adds, loads, removes, and extracts archives
+* @file archive.h
+* @author Jacob McLain
+*/
 
 #ifndef ARCHIVE_H
 #define ARCHIVE_H
@@ -96,10 +99,7 @@ bool saveArchive( Archive *arc, char const *fname );
 * function just needs to pass the given context pointer as
 * the second parameter every time it calls the visitor function.
 * Client code can use this to pass additional information that’s
-* needed during traversal. This is like what we did in homework
-* assignment 3, with the listParks() function, except here we’re
-* using a void pointer, so we could pass in a pointer to any
-* type of information we need.
+* needed during traversal.
 */
 void traverseArchive( Archive *arc, void visitor( FileRec *rec, void *context ), void *context );
 

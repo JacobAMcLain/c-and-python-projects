@@ -1,5 +1,8 @@
 /**
- */
+* This program is for the buffer. It can make, free, and append and extract bytes to a buffer
+* @file buffer.h
+* @author Jacob McLain
+*/
 
 #ifndef BUFFER_H
 #define BUFFER_H
@@ -25,54 +28,64 @@ typedef struct {
 } Buffer;
 
 /**
-* This function dynamically allocates space for an instance of
-* Buffer, initializes its fields to represent an empty
-* buffer and returns a pointer to the new buffer.
+* This function dynamically allocates space for an 
+* instance of Buffer, initializes its fields to represent 
+* an empty buffer and returns a pointer to the new buffer.
+* @return b the buffer
 */
 Buffer *makeBuffer();
 
 /**
-* This function frees all the memory
+* This function frees all the memory 
 * associated with the given buffer.
+* @param buf pointer to a buffer
 */
 void freeBuffer( Buffer *buf );
 
 /**
-* This function adds the given byte to the end 
-* of the Buffer’s data array, automatically
-* reallocating a larger array if needed.
+* This function adds the given byte to 
+* the end of the Buffer’s data array, 
+* automatically reallocating a larger array if needed.
+* @param buf the buffer
+* @param val the value
 */
 void appendByte( Buffer *buf, byte val );
 
 /**
-* This function adds the given sequence of
-* bytes to the end of the Buffer’s data array,
-* automatically reallocating a larger array if
-* needed. If the given sequence is large, growing
-* the data array may require doubling its size more than once.
+* This function adds the given sequence of bytes to
+* the end of the Buffer’s data array, automatically
+* reallocating a larger array if needed. If the given
+* sequence is large, growing the data array may
+* require doubling its size more than once.
+* @param buf the buffer
+* @param seq the sequence of bytes
+* @param n the number of bytes to be appended
 */
 void appendBytes( Buffer *buf, void *seq, int n );
 
 /**
-* This function is for accessing the buffer’s 
-* contents sequentially. It copies the byte at
-* index pos to the given val pointer and moves
-* pos ahead by one. The return value is for handling
-* buffer overflow. The there is no byte at position
-* pos in the buffer (because you have already extracted
-* everything in the buffer), this function returns
+* This function is for accessing the buffer’s contents
+* sequentially. It copies the byte at index pos to the
+* given val pointer and moves pos ahead by one. The return
+* value is for handling buffer overflow. This function returns
 * false and leaves the byte pointed to by val unmodified.
+* @param buf the buffer
+* @param val the value
+* @return T or F based on if the byte was successfully extracted
 */
 bool extractByte( Buffer *buf, byte *val );
 
 /**
 * This function is for accessing the buffer’s contents
-* sequentially. It copies the next n bytes starting 
+* sequentially. It copies the next n bytes starting
 * from index pos to the given seq array and moves pos
 * ahead by n. The return value is for handling buffer
 * overflow. If the next n bytes extend past the end of
-* the Buffer, this function returns false and leaves
-* the seq array unmodified.
+* the Buffer, this function returns false and leaves the seq array unmodified.
+* @param buf the buffer
+* @param seq the sequence of bytes
+* @param n the number of bytes to be extracted
+* @return T or F based on if the bytes were successfully extracted
 */
 bool extractBytes( Buffer *buf, void *seq, int n );
 

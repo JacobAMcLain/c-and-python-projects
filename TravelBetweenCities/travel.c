@@ -1,11 +1,11 @@
 /**
- * This is the main file for the whole program. It reads information from two files given by the user.
- * It then makes a parkList and a cityList
- * It then takes commands from the command line and performs operations to the cityList and parkList
- * based on those commands.
- * @file travel.c
- * @author Jacob McLain
- */
+* This is the main file for the whole program. It reads information from two files given by the user.
+* It then makes a parkList and a cityList
+* It then takes commands from the command line and performs operations to the cityList and parkList
+* based on those commands.
+* @file travel.c
+* @author Jacob McLain
+*/
 #include <stdlib.h>
 #include <math.h>
 #include <stdio.h>
@@ -26,7 +26,7 @@
 City *targetCity = NULL;
 /** Pointer to target park used in "search cities <park id> <miles>" command */
 Park *targetPark = NULL;
-/*
+/**
  * Computes the distance in miles between two points
  * given their latitudes and longitudes
  * @param lat1 latitude of first point
@@ -51,7 +51,7 @@ static double distance(double lat1, double lon1, double lat2, double lon2)
     double v2[] = { clon2 * clat2, slon2 * clat2, slat2 };
     // Dot product these two vectors.
     double dp = v1[ 0 ] * v2[ 0 ] + v1[ 1 ] * v2[ 1 ] + v1[ 2 ] * v2[ 2 ];
-    // This should only happen when we get two copies of the same place.
+    // This should only happen when there are two copies of the same place.
     if ( dp > 1 )
         return 0;
     // Compute the angle between the vectors based on the dot product.
@@ -68,17 +68,19 @@ static double distance(double lat1, double lon1, double lat2, double lon2)
 int compareParkId(void const *vaptr, void const *vbptr) {
     Park const *va = vaptr;
     Park const *vb = vbptr;
+
     if(va->id < vb->id) {
         return -1;
     }
+
     if(va->id > vb->id) {
         return 1;
     }
+
     return 0;
 }
 /**
  * Compare function for sortParks based on distance
- * (I'm replacing the latitude field with distance. This should permanetly erase the latitude, but I do not need it anymore)
  * @param vaptr a pointer to a city
  * @param vbptr another pointer to a different city
  * @return an int based on how they are sorted
@@ -89,9 +91,11 @@ int compareParkDist(void const *vaptr, void const *vbptr) {
     if(va->lat < vb->lat) {
         return -1;
     }
+
     if(va->lat > vb->lat) {
         return 1;
     }
+
     return 0;
 }
 /**
@@ -137,27 +141,33 @@ bool test(Park const *park, char const *str) {
  * @param argv a pointer to a word on the command line
  */
 int main(int argc, char *argv[]) {
+
     if(argc < INVALID_ARGUMENTS) {
         fprintf(stderr, "usage: travel park-file city-file command parameter*\n");
         exit(EXIT_FAILURE);
     }
+
     int count = 1;
     char *pFileName = argv[count++]; //2  (at the end of execution)
     char *cFileName = argv[count++]; //3
     FILE *pFile;
+
     if((pFile = fopen(pFileName, "r")) == NULL) {
         fprintf(stderr, "Can't open file: %s\n", pFileName);
         exit(EXIT_FAILURE);
     }
+
     FILE *cFile;
     if((cFile = fopen(cFileName, "r")) == NULL) {
         fprintf(stderr, "Can't open file: %s\n", cFileName);
         exit(EXIT_FAILURE);
     }
+
     ParkList *pList = makeParkList();
     readParks(pFileName, pList);
     CityList *cList = makeCityList();
     readCities(cFileName, cList);
+
     //Check to make sure two parks don't have the same id
     for(int i = 0; i < pList->count; i++) {
         for(int j = i + 1; j < pList->count - 1; j++) {
@@ -171,37 +181,43 @@ int main(int argc, char *argv[]) {
             }
         }
     }
-  //Check to make sure two cities don't have the same name
+
+    //Check to make sure two cities don't have the same name
     for(int i = 0; i < cList->count; i++) {
         for(int j = i + 1; j < cList->count; j++) {
             if(strcmp(cList->list[i].name,cList->list[j].name) == 0) {
-            fprintf(stderr, "Invalid city file: %s\n", cFileName);
-            fclose(pFile);
-            fclose(cFile);
-            freeParkList(pList);
-            freeCityList(cList);
-            exit(EXIT_FAILURE);
+                fprintf(stderr, "Invalid city file: %s\n", cFileName);
+                fclose(pFile);
+                fclose(cFile);
+                freeParkList(pList);
+                freeCityList(cList);
+                exit(EXIT_FAILURE);
             }
         }
     }
     //List command Start ***********************************************************
     char *command = argv[count++];
+
     if(argc == 4 && strcmp(command, "list") == 0) {
         sortParks(pList, compareParkId);     //I dont know if i need to loop through parks or not yet or if i need param for compareParkId
         listParks(pList, test, NULL);        //Parks should be sorted by ID     If list is the only command
     }
+
     else if(argc == 5 && strcmp(command, "list") == 0) {
         command = argv[count++];
+
         if(strcmp(command, "names") == 0) {
             sortParks(pList, compareParkName);
             listParks(pList, test, NULL);   //Parks should be sorted by name. If same name, then sorted by ID
         }
+
         else if(strcmp(command, "cities") == 0) {
             sortCities(cList, compareCityName);
             listCities(cList);                  //Cities should be sorted by their name
         }
     }
     //List command End **************************************************************
+
     //Search command Start **********************************************************
     else if(argc == 6 && strcmp(command, "search") == 0) {
         command = argv[count++];
@@ -210,6 +226,7 @@ int main(int argc, char *argv[]) {
             listParks(pList, test, argv[count++]);
         }
     }
+
     else if(argc == 7 && strcmp(command, "search") == 0) {
         command = argv[count++];
         if(strcmp(command, "parks") == 0) {

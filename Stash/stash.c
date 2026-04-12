@@ -20,7 +20,7 @@
 #define MAX_WORDS 513   
 
 /**
-* This function takes a user command (line) as input. As described above it breaks the line into
+* This function takes a user command (line) as input. It breaks the line into
 * individual words, adds null termination between the words so each word is a separate string, and
 * it fills in a pointer in the words array to point to the start of each word. It returns the number
 * of words found in the given line. The words array should be at least 513 elements in length, so it

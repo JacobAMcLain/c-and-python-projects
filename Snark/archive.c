@@ -94,24 +94,32 @@ void freeArchive( Archive *arc )
 * @return arc the archive
 */
 Archive *loadArchive(char const *fname) {
+
     FILE *fp = fopen(fname, "rb");
+
     if(!fp) {
         setErrorMessage("Can't open archive");
         return NULL;
     }
+
     Archive *arc = makeArchive();
+
     if(!arc) {
         fclose(fp);
         setErrorMessage("Out of memory");
         return NULL;
     }
+
     while(true) {
+
         char name[1024];
         int idx = 0;
         int c;
+
         while((c = fgetc(fp)) != EOF && c != 0 && idx < sizeof(name)-1) {
             name[idx++] = (char)c;
         }
+
         if(c == EOF) {
             if(idx != 0) { 
                 freeArchive(arc);
@@ -121,27 +129,35 @@ Archive *loadArchive(char const *fname) {
             }
             break;
         }
+
         name[idx] = '\0';
 
         unsigned char b[4];
+
         if(fread(b, 1, 4, fp) != 4) { 
             freeArchive(arc);
             setErrorMessage("Invalid archive");
             fclose(fp);
             return NULL;
         }
+
         unsigned int compLen = b[0] | (b[1]<<8) | (b[2]<<16) | (b[3]<<24);
 
         Buffer *comp = NULL;
+
         if(compLen > 0) {
+
             comp = malloc(sizeof(Buffer));
+
             if(!comp) {
                 freeArchive(arc);
                 setErrorMessage("Out of memory");
                 fclose(fp);
                 return NULL;
             }
+
             comp->data = malloc(compLen);
+
             if(!comp->data) {
                 free(comp);
                 freeArchive(arc);
@@ -149,16 +165,20 @@ Archive *loadArchive(char const *fname) {
                 fclose(fp);
                 return NULL;
             }
+
             if(fread(comp->data, 1, compLen, fp) != compLen) {
                 free(comp->data); free(comp); freeArchive(arc);
                 setErrorMessage("Invalid archive");
                 fclose(fp);
                 return NULL;
             }
+
             comp->len = compLen;
             comp->cap = compLen;
             comp->pos = 0;
+
         }
+
         FileNode *node = malloc(sizeof(FileNode));
         if(!node) {
             if(comp) {
@@ -170,14 +190,17 @@ Archive *loadArchive(char const *fname) {
             fclose(fp);
             return NULL;
         }
+
         node->rec.name = strdup(name);
         node->rec.raw = NULL;
         node->rec.comp = comp;
         node->next = arc->head;
         arc->head = node;
     }
+
     fclose(fp);
     return arc;
+
 }
 
 
@@ -195,35 +218,44 @@ Archive *loadArchive(char const *fname) {
 * @return T or F based on if the archive was added successfully
 */
 bool addArchive(Archive *arc, char const *fname) {
+
     if(!arc) {
         setErrorMessage("Archive is empty");
         return false;
     }
+
     if(!fname || fname[0] == '\0') {
         setErrorMessage("No filename provided");
         return false;
     }
+
     if(strchr(fname, '/')) {
         setErrorMessage("Invalid file name");
         return false;
     }
+
     for(FileNode *n = arc->head; n; n = n->next) {
         if(strcmp(n->rec.name, fname) == 0) {
             setErrorMessage("Archive already contains file");
             return false;
         }
     }
+
     Buffer *raw = readFile(fname);
+
     if(!raw) {
         setErrorMessage("Can't read file");
         return false;
     }
+
     Buffer *comp = compressData(raw);
+
     if(!comp) {
         freeBuffer(raw);
         setErrorMessage("Compression failed");
         return false;
     }
+
     FileNode *node = malloc(sizeof(FileNode));
     if(!node) {
         freeBuffer(comp);
@@ -231,12 +263,14 @@ bool addArchive(Archive *arc, char const *fname) {
         setErrorMessage("Out of memory");
         return false;
     }
+
     node->rec.name = strdup(fname);
     node->rec.raw = raw;
     node->rec.comp = comp;
     node->next = arc->head;
     arc->head = node;
     return true;
+
 }
 
 /**
@@ -256,33 +290,43 @@ bool removeArchive( Archive *arc, char const *fname )
         setErrorMessage("Archive is empty");
         return false;
     }
+
     FileNode *cur = arc->head;
     FileNode *prev = NULL;
+
     while(cur && strcmp(cur->rec.name, fname) != 0) {
         prev = cur;
         cur = cur->next;
     }
+
     if(!cur) {
         setErrorMessage("Archive doesn't contain file");
         return false;
     }
+
     if(prev) {
         prev->next = cur->next;
     }
+
     else {
         arc->head = cur->next;
     }
+
     free(cur->rec.name);
+
     if(cur->rec.raw) {
         free(cur->rec.raw->data);
         free(cur->rec.raw);
     }
+
     if(cur->rec.comp) {
         free(cur->rec.comp->data);
         free(cur->rec.comp);
     }
+
     free(cur);
     return true;
+
 }
 
 /**
@@ -345,33 +389,41 @@ bool saveArchive(Archive *arc, const char *fname) {
     if(!arc || !fname) {
        return false; 
     }
+
     FILE *fp = fopen(fname, "wb");
     if(!fp) {
         return false;
     }
+
     int nFiles = 0;
     for(FileNode *n = arc->head; n; n = n->next) {
         nFiles++;
     }
+
     if(nFiles == 0) {
         fclose(fp);
         return true;
     }
+
     FileRec **files = malloc(sizeof(FileRec*) * nFiles);
     if(!files) {
         fclose(fp);
         return false;
     }
+
     int i = 0;
     for(FileNode *n = arc->head; n; n = n->next) {
         files[i++] = &n->rec;
     }
+
     int cmpFileRec(const void *a, const void *b) {
         FileRec *fa = *(FileRec**)a;
         FileRec *fb = *(FileRec**)b;
         return strcmp(fa->name, fb->name);
     }
+
     qsort(files, nFiles, sizeof(FileRec*), cmpFileRec);
+
     for(i = 0; i < nFiles; i++) {
         FileRec *rec = files[i];
         int nameLen = strlen(rec->name) + 1;
@@ -380,22 +432,28 @@ bool saveArchive(Archive *arc, const char *fname) {
             fclose(fp);
             return false;
         }
+
         unsigned int compLen = rec->comp ? rec->comp->len : 0;
         unsigned char b[4] = {(compLen & 0xFF), ((compLen >> 8) & 0xFF), ((compLen >> 16) & 0xFF), ((compLen >> 24) & 0xFF)};
+
         if(fwrite(b, 1, 4, fp) != 4) {
             free(files);
             fclose(fp);
             return false;
         }
+
         if(compLen > 0 && fwrite(rec->comp->data, 1, compLen, fp) != compLen) {
             free(files);
             fclose(fp);
             return false;
         }
+
     }
+
     free(files);
     fclose(fp);
     return true;
+
 }
 /**
 * This function lets client code see the contents
@@ -409,10 +467,7 @@ bool saveArchive(Archive *arc, const char *fname) {
 * function just needs to pass the given context pointer as
 * the second parameter every time it calls the visitor function.
 * Client code can use this to pass additional information that’s
-* needed during traversal. This is like what we did in homework
-* assignment 3, with the listParks() function, except here we’re
-* using a void pointer, so we could pass in a pointer to any
-* type of information we need.
+* needed during traversal.
 * @param arc the archive
 * @param visitor a helper method to find the visitor
 * @param context context to help find the visitor
@@ -422,6 +477,7 @@ void traverseArchive( Archive *arc, void visitor( FileRec *rec, void *context ),
     if(!arc || !visitor) {
 		return;
 	}
+    
     for(FileNode *n = arc->head; n; n = n->next) {
         visitor(&n->rec, context);
     }

@@ -37,10 +37,7 @@ bool setErrorMessage( char const *message ) {
 
 /**
 * This returns a pointer to the current error message string,
-* or NULL if there is no current error message. The caller may use
-* the returned string for reporting what went wrong, but the caller
-* should not attempt to free this string; we’ll say the error component
-* still owns the memory for this string until the error message is changed via setErrorMessage().
+* or NULL if there is no current error message.
 * @return errMessage the error message
 */
 char const *getErrorMessage() {
