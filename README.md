@@ -23,10 +23,10 @@ This project includes a full AES implementation along with CLI utilities for enc
 ## Usage
 
 **For encrypt:**
-./encrypt <key-file> <input-file> <output-file>
+./encrypt [key-file] [input-file] [output-file]
 
 **For decrypt:**
-./decrypt <key-file> <input-file> <output-file>
+./decrypt [key-file] [input-file] [output-file]
 
 --------------------
 ## Small Python Programs
@@ -114,4 +114,4 @@ A command-line program written in C that processes geographic data about parks a
 
 ## Usage
 
-travel park-file city-file command parameter*
+travel [park-file] [city-file] [command parameter*]
