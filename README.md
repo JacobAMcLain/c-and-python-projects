@@ -1,17 +1,15 @@
 # Projects
 
-**This is a collection of Projects I have worked on**
-
-_____________________________________________________________________________________________________________
-OUTLINE OF THE PROJECTS
+A collection of projects demonstrating experience in systems programming, command-line tools, cryptography, and Python application development.
 
 --------------------
-## AES (encrypt.c, decrypt.c)
+
+## AES (`encrypt.c`, `decrypt.c`)
 
 A command-line file encryption and decryption tool written in C that implements the AES (Advanced Encryption Standard) block cipher.
 This project includes a full AES implementation along with CLI utilities for encrypting and decrypting binary files using a 128-bit key.
 
-## About
+### Features
 
 - Full AES-128 block cipher implementation
 - Command-line encryption and decryption tools
@@ -20,13 +18,12 @@ This project includes a full AES implementation along with CLI utilities for enc
 - Validates input file sizes for correctness
 - Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations to encrypt/decrypt binary files
 
-## Usage
+### Usage
 
-**For encrypt:**
+```bash
 ./encrypt [key-file] [input-file] [output-file]
-
-**For decrypt:**
 ./decrypt [key-file] [input-file] [output-file]
+```
 
 --------------------
 ## Small Python Programs
@@ -44,21 +41,20 @@ A Set of 3 Python programs: CPSTracker, Mean_Median_Mode, & MovableBall.
   - Developed a simple interactive graphical program featuring a movable ball
   - Implements keyboard input handling using arrow keys for real-time movement
 
-## Usage
+### Usage
 
+```bash
 python CPSTracker.py
-
 python Mean_Median_Mode.py
-
 python MovableBall.py
-
+```
 --------------------
 ## Snark (snark.c)
 
 A command-line archive management system written in C that supports creating, modifying, saving, and inspecting a custom file archive.
 The program includes a command interpreter, error-handling system using `setjmp/longjmp`, and support for both interactive and script-based execution.
 
-## About
+### Features
 
 - Custom command-line interpreter with interactive and script modes
 - Archive operations:
@@ -70,16 +66,17 @@ The program includes a command interpreter, error-handling system using `setjmp/
 - Supports compressed file storage and on-demand decompression
 - Error handling using `setjmp` / `longjmp`
 
-## Usage
+### Usage
 
+```bash
 ./snark [-a archive-file] [-s script-file]
-
+```
 --------------------
 ## Stash
 
 A lightweight Unix-style shell implemented in C that supports basic command execution.
 
-## About
+### Features
 
 The shell operates in a continuous loop:
 
@@ -90,16 +87,17 @@ The shell operates in a continuous loop:
 5. Executes external commands using `fork()` and `execvp()`
 6. Waits for the process to finish before continuing
 
-## Usage
+### Usage
 
+```bash
 ./stash
-
+```
 --------------------
 ## TravelBetweenCities (travel.c)
 
 A command-line program written in C that processes geographic data about parks and cities, allowing users to query and analyze locations based on distance and attributes.
 
-## About
+### Features
 
 - Loads and validates data from external park and city files
 - Builds dynamic lists of parks and cities in memory
@@ -112,6 +110,8 @@ A command-line program written in C that processes geographic data about parks a
 - Validates input files for duplicate park IDs and city names
 - Handles invalid commands and input errors
 
-## Usage
+### Usage
 
+```bash
 travel [park-file] [city-file] [command parameter*]
+```
