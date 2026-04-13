@@ -47,7 +47,9 @@ A Set of 3 Python programs: CPSTracker, Mean_Median_Mode, & MovableBall.
 ## Usage
 
 python CPSTracker.py
+
 python Mean_Median_Mode.py
+
 python MovableBall.py
 
 --------------------
