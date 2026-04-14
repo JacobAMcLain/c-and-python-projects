@@ -7,12 +7,12 @@ A Set of 3 Python mini-projects exploring GUI and Data Processing: CPSTracker, M
 
 Built an interactive GUI application that measures clicks per second (CPS)
 
-## Features
+### Features
 
   - Uses a timer-based system to track user input in real time
   - Continuously updates CPS as the user clicks within a defined area
 
-## Usage
+### Usage
 ```bash
 python CPSTracker.py
 ```
@@ -21,11 +21,11 @@ python CPSTracker.py
 
 Command-line program that accepts an arbitrary number of integer inputs from the user
 
-## Features
+### Features
 
   - Stores inputs in a dynamic list and outputs the mean, median, & mode of the user-created list
 
-## Usage
+### Usage
 
 ```bash
 python Mean_Median_Mode.py
@@ -35,11 +35,11 @@ python Mean_Median_Mode.py
 
 Developed a simple interactive graphical program featuring a movable ball
 
-## Features
+### Features
 
   - Implements keyboard input handling using arrow keys for real-time movement
 
-## Usage
+### Usage
 
 ```bash
 python MovableBall.py
@@ -50,20 +50,20 @@ python MovableBall.py
 
 A Python program that analyzes an audio file to estimate its tempo (BPM), detect beats, and display a waveform visualization.
 
-## Features
+### Features
 
 - Loads an audio file
 - Estimates tempo (BPM)
 - Detects beat positions
 - Displays waveform with beat markers
 
-## Libraries Used
+### Libraries Used
 
 - `librosa`
 - `matplotlib`
 - `numpy`
 
-## Usage
+### Usage
 
 ### Install dependencies
 
