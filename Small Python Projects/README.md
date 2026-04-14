@@ -1,4 +1,4 @@
-## Small Python Programs
+# Small Python Programs
 
 A Set of 3 Python mini-projects exploring GUI and Data Processing: CPSTracker, Mean_Median_Mode, & MovableBall.
 
@@ -74,5 +74,5 @@ pip install librosa matplotlib numpy
 ### Run the program
 
 ```bash
-python main.py
+python BeatVisualizer.py
 ```
