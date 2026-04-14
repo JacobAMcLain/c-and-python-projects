@@ -44,3 +44,35 @@ Developed a simple interactive graphical program featuring a movable ball
 ```bash
 python MovableBall.py
 ```
+
+-------------------------------
+## BeatVisualizer
+
+A Python program that analyzes an audio file to estimate its tempo (BPM), detect beats, and display a waveform visualization.
+
+### Features
+
+- Loads an audio file
+- Estimates tempo (BPM)
+- Detects beat positions
+- Displays waveform with beat markers
+
+### Libraries Used
+
+- `librosa`
+- `matplotlib`
+- `numpy`
+
+## How to Run
+
+### Install dependencies
+
+```bash id="a91k2m"
+pip install librosa matplotlib numpy
+```
+
+### Run the program
+
+```bash
+python main.py
+```
