@@ -16,7 +16,7 @@ This project includes a full AES implementation along with CLI utilities for enc
 - Processes binary files in 16-byte blocks
 - Supports file-based key input
 - Validates input file sizes for correctness
-- Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations to encrypt/decrypt binary files
+- Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations
 
 ### Compile 
 
