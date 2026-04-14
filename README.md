@@ -16,7 +16,7 @@ This project includes a full AES implementation along with CLI utilities for enc
 - Processes binary files in 16-byte blocks
 - Supports file-based key input
 - Validates input file sizes for correctness
-- Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations to encrypt/decrypt binary files
+- Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations
 
 ### Compile 
 
@@ -32,29 +32,7 @@ make
 ```
 
 --------------------
-## Small Python Programs
 
-A Set of 3 Python programs: CPSTracker, Mean_Median_Mode, & MovableBall.
-
-- **CPSTracker**
-  - Built an interactive GUI application that measures clicks per second (CPS)
-  - Uses a timer-based system to track user input in real time
-  - Continuously updates CPS as the user clicks within a defined area
-- **Mean_Median_Mode**
-  - Command-line program that accepts an arbitrary number of integer inputs from the user
-  - Stores inputs in a dynamic list and outputs the mean, median, & mode of the user-created list 
-- **MovableBall**
-  - Developed a simple interactive graphical program featuring a movable ball
-  - Implements keyboard input handling using arrow keys for real-time movement
-
-### Usage
-
-```bash
-python CPSTracker.py
-python Mean_Median_Mode.py
-python MovableBall.py
-```
---------------------
 ## Snark (snark.c)
 
 A command-line archive management system written in C that supports creating, modifying, saving, and inspecting a custom file archive.
@@ -84,33 +62,6 @@ make
 ./snark [-a archive-file] [-s script-file]
 ```
 --------------------
-## Stash
-
-A lightweight Unix-style shell implemented in C that supports basic command execution.
-
-### Features
-
-The shell operates in a continuous loop:
-
-1. Displays a command prompt (`stash>`)
-2. Reads user input using `fgets`
-3. Parses the input into arguments
-4. Checks for built-in commands (`cd`, `exit`)
-5. Executes external commands using `fork()` and `execvp()`
-6. Waits for the process to finish before continuing
-
-### Compile
-
-```bash
-gcc -Wall -std=c99 -o stash stash.c
-```
-
-### Usage
-
-```bash
-./stash
-```
---------------------
 ## TravelBetweenCities (travel.c)
 
 A command-line program written in C that processes geographic data about parks and cities, allowing users to query and analyze locations based on distance and attributes.
@@ -138,4 +89,54 @@ make
 
 ```bash
 travel [park-file] [city-file] [command parameter*]
+```
+--------------------
+## Small Python Programs
+
+A Set of 3 Python programs: CPSTracker, Mean_Median_Mode, & MovableBall.
+
+- **CPSTracker**
+  - Built an interactive GUI application that measures clicks per second (CPS)
+  - Uses a timer-based system to track user input in real time
+  - Continuously updates CPS as the user clicks within a defined area
+- **Mean_Median_Mode**
+  - Command-line program that accepts an arbitrary number of integer inputs from the user
+  - Stores inputs in a dynamic list and outputs the mean, median, & mode of the user-created list 
+- **MovableBall**
+  - Developed a simple interactive graphical program featuring a movable ball
+  - Implements keyboard input handling using arrow keys for real-time movement
+
+### Usage
+
+```bash
+python CPSTracker.py
+python Mean_Median_Mode.py
+python MovableBall.py
+```
+--------------------
+## Stash
+
+A Unix-style shell implemented in C that supports basic command execution.
+
+### Features
+
+The shell operates in a continuous loop:
+
+1. Displays a command prompt (`stash>`)
+2. Reads user input using `fgets`
+3. Parses the input into arguments
+4. Checks for built-in commands (`cd`, `exit`)
+5. Executes external commands using `fork()` and `execvp()`
+6. Waits for the process to finish before continuing
+
+### Compile
+
+```bash
+gcc -Wall -std=c99 -o stash stash.c
+```
+
+### Usage
+
+```bash
+./stash
 ```
