@@ -1,0 +1,6 @@
+ID  Name                                          Lat      Lon
+214 Deep River State Trail                     35.587  -79.181
+217 Elk Knob State Park                        36.333  -81.691
+418 Eno River State Park                       36.078  -79.005
+615 Dismal Swamp State Park                    36.506  -76.355
+713 Crowders Mountain State Park               35.213  -81.294

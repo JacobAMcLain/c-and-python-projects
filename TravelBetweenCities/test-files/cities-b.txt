@@ -1,0 +1,5 @@
+  Asheville 35.6009   -82.5540
+Charlotte  35.2271 -80.8431
+Greensboro    36.0726   -79.7920
+ Hendersonville   35.3187 -82.4609
+RockyMount  35.9382    -77.7905

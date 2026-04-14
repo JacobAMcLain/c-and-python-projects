@@ -1,0 +1,10 @@
+ID  Name                                      Miles
+628 Haw River State Park                      12.46
+245 Mayo River State Park                     26.58
+229 Hanging Rock State Park                   34.83
+258 Occoneechee Mountain State Natural Area   37.72
+861 Pilot Mountain State Park                 41.76
+242 Lower Haw River State Natural Area        41.81
+418 Eno River State Park                      43.95
+214 Deep River State Trail                    47.93
+834 Jordan Lake State Recreation Area         49.19

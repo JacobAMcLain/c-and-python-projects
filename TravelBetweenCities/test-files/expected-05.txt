@@ -1,0 +1,6 @@
+Name                      Lat      Lon
+Asheville              35.601  -82.554
+Charlotte              35.227  -80.843
+Greensboro             36.073  -79.792
+Hendersonville         35.319  -82.461
+RockyMount             35.938  -77.790

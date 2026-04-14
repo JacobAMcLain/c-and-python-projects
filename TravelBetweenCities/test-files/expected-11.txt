@@ -1,0 +1,901 @@
+ID  Name                                          Lat      Lon
+599  DEcJWkUCjkxNgkZWhAPOGSS                  -45.804  -16.941
+678  LPyKr cMnkupLEKrYnJESsYiEeh               87.417  144.339
+833  OORagzXeVTwsM jwP Fk                      41.395  -33.011
+103  PMpyHCzzJMoTnWqnRTmbQywRG S               34.385 -169.370
+156  Pn bXHNPkWvuYHkyVOV                      -47.642  -51.002
+715  QQ YfbpfoFDVQtDobd                        19.540  104.503
+421  UbyHJvUTohbc                               0.488  159.968
+504  WeXWWMRNjdzEE                            -86.254 -122.402
+623  hZrJMJiesbvlcWoioitlNcqAtbtM             -54.239  -94.118
+286  iCvswBYNZdbTblKHZDpM                      38.498   56.690
+215  iQTCIMXAaBvHfETyqtWsoexTDkYcRJVeaLwzsON   43.106 -116.661
+273  iriOSZGfOaTNiDYtQNRSLyzZ                   5.340 -165.480
+628  lAEsVWKSPpsYRKsogdaPBoAiqwSaLXLBUxMto     26.152  -57.636
+681  mNKDmfWtzpkHewcWTqxbqxfqQKaqpa F           7.038  -99.015
+708  tYBuDMKNJAiwoospFwSQJWgRhnGP              34.870  130.965
+532  vhftQTYMEvLtKWckBXNEExtVbhasWz            42.470  109.260
+729  xYsMzQobDHO                              -42.593  178.762
+575  zQBWMlyBlhttYfXuWZxFxXHSZNH               85.543    2.584
+376  zczBFQaUXuVQKslMXBJVGlnzrG w              -5.005  -80.175
+843 AFOxsYMQdeMvdja                           -46.600   12.053
+529 AGLgHKPbbyiHhGkSyHggJryflkgHqP            -32.485  146.982
+478 AIlCWMTZuBOpjoeMSdCRbl oNTZQGlZJBjex       71.730   47.925
+444 AKykNDzkJAlHwUHkReVXYoqgcmJVbcDUz         -35.899   77.557
+569 AMGKProaUAGFmIMAZtWK UBUIrB                41.934  129.914
+981 ARslpFqHmyyAU KLeTFsFEPURHbSEBuNTZp       -78.621  143.470
+461 AYEzkyoCFxIYsNOoKUhNroWSIhXEj              57.758  -82.156
+213 AZUyTGRDicSCGqTaPGaucjsxQKSuKgRAgZ        -53.699 -104.690
+238 AZVJiskNiNdqlKb                           -79.423  174.840
+663 AdTFPjtEdpiWMnWoEUhttERsiEylQvvDD LoBlP    23.311   14.147
+693 AeFFqE YkZFAPZfGWia                       -78.191 -114.238
+882 AekmjwJvKUENvfgMnLmXOrrBi                  15.614 -127.802
+971 AfWOJzIwmyCtcENUmVqPjP GNtwzRvoZGahMu     -36.645  130.643
+388 AiVPLnvbrXxrC                             -76.869  -54.162
+384 Amp Oljsc GJeIPTMgQHqjUGXrFs               76.875    9.506
+885 AtKrXLNJCPvweHoxhfvKCTxVYQlvnTwBZ          43.781  137.620
+225 AuhnbBulIYLxiJ                            -86.985   82.225
+650 AzEiwDhwmiArSmKca                         -30.150 -134.848
+629 BFPXgEXUlTmlsBkdfCFsFNWPLLxeMVHhcN z       53.558  -26.940
+363 BFoBuwrHwmbNRczsfzMICPm                    70.496  -73.480
+336 BOklcxEjRsqSKaN                            71.463  -45.863
+920 BaFnQUGNmlizMxgCidZyNabpFHOw               -5.001  168.069
+711 BbXBqEbftjyDlmGXVxECPTsdffYhYVfsMCwoDN     -0.170   49.301
+417 BgfLuzOnXardwkEIvQMwbpAoklpIgOelA         -27.785 -151.224
+484 BoQJUHArMQqfBn zLafYYkjadnKg              -55.196  177.560
+713 BudEGPlyhCEKZEldVzeJcwpEc                  79.201   84.662
+147 BwkEgEYkUPCHKZHpTgjqRxPVXVG               -36.824  -62.152
+218 CEAkOocbIHrIZHoGon                        -28.192 -123.367
+878 CGPqSZGpOFdYlIgrN                         -81.285 -135.673
+781 CL gUgzZEV                                 65.950  170.827
+941 CLSXAEzyXEpDAAobA                          61.788  -37.125
+730 CLYhesReYbCVxYHSuyxhsP jLYlIOOERv          84.773 -130.880
+316 CODjjkNyYAAZuUISfo                         74.440   93.390
+968 CWERMnsMDGuUPrfjdeExNtpaVRPTkx            -13.178  125.010
+387 CWujAgIWzfD                                53.015   71.731
+917 CXNZCuAiWheyaWxOBLIPOjprpZyqegwTSILYx      -3.950  -60.884
+454 CZBsNIUisMtBPoPtR                         -42.161   83.227
+615 CcsQQszVRfPkmEOflH                         88.085  159.212
+541 CeNkbkLTmWTysgQsDFddZdKeOuEajBuJcqswQn    -71.487  -19.562
+379 CepReUPEpToDjAfHwU                         29.293  -95.516
+769 CfivIPXZHxYTPMkjzcvjHeJZQhhtwBvsE          -3.096  -10.598
+241 CftEtpsgEBmsAGkKNEcR                       16.644  -47.435
+675 ChocBubLgdZUusgSAotKfBjZXr                -61.471   53.457
+691 CqnG ZSil rKCYkbPYSTrKOLYHYWzdTIPpnyjSD    15.684  -92.953
+260 CsJImoEoKrXKQkaqGtufpEjLMdOHAj FDgXVDz     40.113 -104.757
+477 CtaKMhxeIwPCigNoMMdju                     -81.636  155.290
+481 CxgRWBVlDzTD dSDsVpNXMBTpS                -37.479  -70.903
+105 D PRlGGEZOaKDhxNOnwD mpftSnXzPFvUQZnXYDB  -73.843  134.781
+906 DDoORaYjioWkIUKcBKwqZKzTJ                 -12.296   61.085
+699 DDtSQcoVcRJfR OhbvkNUuPSO                  55.695   57.759
+262 DFIN WhQFg                                 54.785   10.631
+204 DHpPdMyMoFb                                17.176 -179.567
+944 DMCZaYylKOXAjGVpdUmLwPoW Qkxvgm            22.342   72.951
+133 DMUFjzQECqqFIwCknpbXHVqXISKkDdge           -4.038  152.220
+177 DNSCBYtLWQRrtnabUBatDlYaCDkLioevlgUS        1.175   42.593
+799 DOGkMWweRm Zb                             -10.584  -22.634
+513 DOxiqkUGl                                  -1.219  -77.247
+802 DWhaLmyIKLvZkXljgXYkU                      29.387  144.055
+800 DXBZVUuIyXpffggqvFprifyILuUbuUIxAwxwWwnY  -49.248 -129.630
+746 DeJUALsndfe                               -28.805  141.742
+780 DehPVQjRNAlfrZHdDaJ                       -57.143   87.960
+673 DfkFPAmPi figkpcVK                         -5.616  -41.307
+187 DhQTJVTcwzkuIVmWEIEtvAAZZXRMroacschCgdj    72.711  158.706
+756 DkTgwHghQCPqCSgGbzuhr XjDYPg               42.685  -46.366
+294 DtBRSUlzTHOvTyAVhsveONfIVXrfI              53.767  -74.351
+551 DutWQkFoRAxzGsjNHh lF                      69.114  134.451
+948 DwakRfjohjQcSEOdAPiMJLeuhWYONLAgco         84.826   27.221
+205 EEVIvNKoOopEhkIQENnnnufxs                 -42.482 -159.903
+154 EFZUfmvCGEi bhnoQf L FRNj XQTuRhcsFzx      -1.725  164.138
+590 EJxqyZrVYSRced                             19.150 -169.048
+796 EPHjzNtLxy                                 59.406   41.478
+925 EPLaGAwZcmykMaw                           -74.303  -19.454
+540 EPRSn GJnZEtRTQwkyxlUfFFEl                 29.539   79.839
+253 EPXzHNmx upofFylkqRxNpyZCipsHCISHgTYiq    -21.428 -115.129
+718 ERW WlgOMNpzebmlPVT                       -30.990   14.721
+392 ESvEKneaczLRQSSMXUdgE                     -36.579  -42.533
+439 EiPdLHuBqpSIpKWFCYKmRug                   -33.994 -117.505
+621 ElEoPziKXDfQEekBaFUXNYUVCBVfBKFM AlFLzAb   61.176   65.354
+394 EoyP nIvkhQSCt                             29.596   -6.029
+497 ErlKdMcnJvewSRmCiCjJxRed ivMDcHeJgtXMuvO   13.114 -113.271
+435 Etlzrzjl hOkMMnIVAPLvzjNkosNiTsViGQeBeq   -43.054 -111.996
+904 EuGNNmVeWOOei IPtCqDKUBMqCm PXm           -60.391  117.508
+427 EvhYWROxQHIijPeiTQCTeRqWHGibKiVT           81.229 -120.421
+562 EwbzcpiEl gcCcOpkUteLQTVjkEiuUq            71.926    4.331
+423 EyKsecLzFomKBfgPfGoUbLjmjwpANDDRFoATgJ     -1.574  -96.637
+374 F MnLDxrfdLhGPfAHdYmdglTTGcdDjr           -54.640    9.819
+816 FHbKesQsqqzEdozoANSJBISRUqE               -45.237   39.732
+659 FLcQPsOzY m PGCrIeJZDicwmwr               -88.578  -76.852
+358 FNMn QaSgtnSDGdFhlnCbLqa                    7.956  137.220
+523 FOxfqAUtXvquZrLsXTiBnxHnA                  20.814  -44.661
+339 FPgmvxERWxKOQjGg yPSOh                     -7.318  154.389
+552 FURebTMFdTBPayxukkfmSxyMCxGpAYqkyVO        40.973   12.443
+943 FYBib ZSBZgLNSJcIUYoAZRYugp               -86.995  142.435
+992 FbtGrMwWhKJHZEPDUYqKGDzoZktkhSTadVAhNb    -59.108   75.784
+401 FfgsqqhzxjJJhMLZ BEOLsvG                  -60.866 -106.128
+689 FkemPoTSrDtjNE                            -48.029 -176.157
+679 FlmoyvRfuzqmqtu                             1.641    3.599
+853 FmGhkJJCz                                  22.800  161.753
+900 FoHzuBidfdBoR                              26.548  -12.786
+967 FsdBvwUZhigOyARSjMaqv                      23.431  134.620
+460 FztHXeGxnioEwyYrZhziZRtaGfQzEXsBVdgPRfyv   69.622  142.951
+954 GDTglXsswuOLpnYFNwEw Rp                   -15.722  -37.176
+404 GE HV fgRt okORQnnlDtbtWaVFH              -26.638 -176.410
+512 GEVsDKOrtckFFfDGgcTYrArRRuD               -21.338   93.738
+965 GEqlDqYFNpgrbzFqdrJvJco                   -69.196   57.137
+129 GIvCAyapho DofMxe                         -25.219  175.757
+206 GKLMwSoLiAGaZPRFebUZfV bGxrrBPCgOivnaG    -44.074   53.873
+935 GKNgVJXJLaCKYnOXAxdaY                      67.459 -169.909
+851 GNVgZeKVtQjRbNjepOknqipJKLbS                8.194  113.317
+155 GQfoyDVpygor                               62.193  -21.126
+351 GYb KmQXifBklt                            -11.442 -134.087
+611 GYxdCvilydLQHVmtAklV                       48.056  173.136
+720 GficoRQtUp                                 62.337 -134.694
+350 GjDdaSJmoTd                                12.888   75.167
+239 GkZetBVCLGANbGZuXMKIUpZDda                -45.659   -0.260
+449 GohDqXSgTRMZdzAdlEdCgpDu                  -64.017    5.882
+452 GreUhrXQvVTLxSBeaSZNAbWtgigVDePo lDHlk    -83.053  -74.171
+587 GxIgEHMZEHodcMdpTFV                        -3.719   90.879
+271 GyFmCLyPQFfA                               45.860   59.093
+249 GynQDeIuXeeapxRoUBrBOPv                    49.220   10.701
+370 GzJxLKNaaCxUK yZGieHWmWtRoOoCdHH           85.375  -42.121
+811 HASahllQeEzrFOolXaxeEeXUkC                 40.234  138.211
+588 HJsYuPDtauZ                                64.756   96.961
+586 HKlnptLZXR                                 43.784   41.946
+126 HLhxocbbNwBR                               50.037 -166.388
+408 HSFBfntgbJqVShqA                          -71.724  121.060
+254 HTbWDGBnYpkVvzePgERfkisTTYkUsSMnlCCtY      38.960 -148.930
+951 HbqebTrWLOmC Gb                           -12.541   -7.788
+217 HeIqbrMdyRphKizZOg dynTsw                  12.895  -96.910
+716 HggZR vzROBDCXHKVjSolevQsUkcKQJJp Jbsz      2.528  119.651
+636 HgqdKVCHgyAmkzLohhnx                      -77.646   52.620
+426 HhWAschmb ekq rLErJWhy                     35.828 -179.878
+759 HmjAcLMMrHP                                48.322  -40.127
+914 HoFyptNrtCAqCxnObJnjpwOgydsXs             -35.509   -5.307
+581 Hpzfyzw iW Q                              -81.766 -148.084
+594 IEmYHbelsWDkrcXeEJCtjSLqvrjPSUQ           -77.019  125.726
+138 IGKbosYCcZEOzTiF                           31.936   13.735
+498 IKpmPffmTnjQZhaZnArCLnig                  -19.482 -163.200
+664 ILPmebvqErEZJEtKqRLrMuP                    20.597  -96.987
+243 IOEAUUnYRrydYnWJyoxwbJojegIOiaKaBSp        24.421   90.401
+307 IONOfnUOJkinRcGAiKgDnncHJkEOBWnis ZTD      52.834   54.417
+764 IVAMIKAHGFk                               -89.441  -82.427
+491 IVqPRidDcVqwMiSOVeDVGzx                    -1.635   58.756
+413 IarTbvLipOvWyx                            -86.485 -103.645
+660 Iei eIjvRTMlUsd                           -54.060   25.540
+407 IhvpWvxSFEMvEBiAxrhdsoVSoVPGhWtiI          77.871  136.910
+931 IhzjTYuVpJezndBBdWfiNcmcCyXFbIsh NgD        8.209  122.310
+957 IjQTgIzKDQ KeXqOJNSVombYVZ gunwwZD        -72.949 -115.477
+405 IjwHTjavV tG                              -31.511  -11.512
+100 IoFdsWVxjszWJjVYAgqOvbipFx                -64.096   99.886
+299 IpjPysSGuGuiPKRd                          -84.924  -98.515
+109 IpthdEJfzuH                               -85.949    0.438
+181 ItFmwEnbAGBAhsL                             1.344 -155.604
+272 ItxxoblEnjHYEwwoWoEnZyxDxSdEmDFVlc         -5.774  -86.763
+462 IusZdsNYYuvzKXlOcMBShA                     41.558  174.314
+798 IzYEIYGvDOBYaqHnSeKHWXsMyOWc               35.461   97.287
+915 JGDLuWvcdrvAYaP                            43.571  117.155
+450 JGsfDwqBJitBFwlAukpaSFsq hTgNmF Um        -59.716 -179.173
+824 JHbaKhwODWJcEvsbjxAzzbGqtDp                25.498 -138.672
+616 JMhOTxbp Mo                               -37.494 -159.002
+127 JRjRxqoNnjkVdEHYtgvsWXoswXIFEdjYjqLEtLP     5.313 -123.613
+399 JRwXoMsiCEsLHQUv                           21.045   61.917
+930 JTAaiupxRfxVvrGt                          -22.768  -87.711
+777 JUkobkAsxLgVma                             24.257  131.573
+566 JWsNcnVnoN ceoLwdCLYHOaA Y                 40.855  113.456
+793 JZoMsLJpqUryioYW ZiwagKtGfp                71.395  -44.965
+327 JakYw zo rKnaTwCBoXi                      -64.790  -60.100
+751 JhWCarxnXVnSdHWzeFy rzaiKEPY              -24.572  -71.461
+852 JuBiHeaDzVrQsvMJGgD                        -8.567 -126.486
+988 JyCUVKqPFKPkEVRR                          -33.100  -70.411
+530 KAeTHqXEAYBjKQvc                           13.740 -164.770
+698 KBLEfhtDsxLXLXby                           -8.767 -139.356
+531 KCjROdJMdNSuhhHEUyjiocPXNhoFRzvhqTzR       62.478   98.577
+993 KEQSitnmWfZtzLrFG lpOvNAdY                -84.472  -14.737
+832 KIXNPiQfvXvwUExGkekXGdftCpRuH             -54.615  104.755
+641 KJxhNvDHoMPsDKqv                           49.889  -64.451
+349 KNiMybwMWxPWUiOxfK                        -48.085   26.693
+310 KVGFJFxpTYM eWsoQnIXOYXWaIc wAeGFGfQoCR    -9.928   66.735
+148 KWzJolTVmS L                               50.902  -79.275
+792 KZRuYjzoq                                  87.380  150.563
+847 KfWmDZfHgoXtv FFX CQ                        6.195  125.173
+986 KjpTzMclhiKBHDo TEJ                        10.360  -30.954
+141 KomHypljNEvOWCxjlMpmkUmZy eDnOQGxes       -88.921   63.021
+866 Krsadi qryq rtPGShGNSUlfkNkaEUmgJZO       -23.127 -121.591
+453 KsICfWUiSs bMUWHsWYIteJDGwTXmxqGsGFOndA    25.935   20.198
+301 KuBeiSWdxVKMtTJuNCzOsxACElqQMVzX          -69.358  -63.832
+709 KudiqJfgdyrqSkdEORjRMcEnGiBX               38.910   -1.095
+207 Kv zDbWYXdrcVFGNoVuSKLT                   -26.118  148.790
+368 KwJoWfGbBlWDEcMfbNgczRecLbNqCiBOShz aigS   72.643  111.676
+684 KykCFAfZdSBeKIwhH                          39.605    3.028
+180 KzERUTFulXrHj vqcuhnOoX                    33.366  -82.760
+828 L IqVqGqEJzqbuVPqPWZxljtpriWNEOc           52.112  172.287
+293 LCyDWDtiJPIWrg                             29.817 -105.024
+415 LFEHm PkMKFhTT rXXNKXbXZSDNEOIhMhDTvXPo    56.433  -83.341
+624 LIKzDAeAjAyITH PdZWJ y                      5.618    0.784
+393 LJuNKtOcwjDezbVa                          -86.464   -9.214
+160 LMblwohZYMXuOiSCwQoDumdD                   43.413   74.334
+378 LMqbnuDxzJVHedIvfnALLQIo CTmtw              2.380   47.220
+539 LRRbliXPxcBIiuzdQxwqULSnEixvD              56.382 -142.034
+182 LVNwKNlWSCdb                               67.560  117.467
+202 LXbNvWCXyFNBlauQftyEjqtfqExp               23.889  -63.553
+810 LXpesemGlPHVXkR                           -41.355   18.075
+774 LZBBykHnGpcQsgJsPQ                        -32.807  133.670
+990 LZuXOGCaquwjBtcvgQWYBauoCfb                85.755  -22.521
+735 LZzqbtPdvHGiXJubgigkTnTFhXECckZipTgNqEs   -58.804   25.479
+252 LaCoGyXYHupREGScyGRfCjScq                 -82.950  178.971
+953 LaGMJrnAqVGrIiR ZpCXPpqFF pcLrRyIHCHO     -19.799  129.073
+279 LcxBPwUHjnWDxHnJloSnAreiPMKqDL EkDn        71.700  100.818
+724 LdRouhGAwJZsaDabaTzSY hYXjekZnRGkgcoGo    -44.451  -82.039
+371 LeYBzpPiSVwrhwmDXpdhPtVOY                 -27.938   67.402
+145 LfCaHBA  fQtGNmtvMNvNqdKTawkYrn           -12.422  -97.467
+528 LgHHwCfErBSlnqdJHyYHxyjDQzqqcJKQF          24.105  -51.542
+390 LhgMWzTwZBrDoEfcTsZdjeutuWMueVYiLr         16.284  109.864
+416 LjaNDNoLwzoGWhroAnltceDcYIrWho             69.900  -39.366
+365 LnAYVbFYlsRsccdBOqvokstLAtoisMmo          -59.106  163.714
+886 LpwYF JYFNIrYL fdnajLPKcI                  69.001  -33.154
+794 LrqnWczuGGHSWhtplGGjslqYAedcPWzSDB        -29.343   85.889
+606 LsJjmcioaNidYtrKhSdmoQDXJBkDuxWfRZ        -40.561  -70.685
+441 LtePqtuTxLbyQpvoEHhfPfvMSzow               77.022   64.275
+178 LyOhThCnYPhJHZzdFPBMuIyneoXcc             -83.416  132.041
+710 MAlXSNskMvgDkdnJ                          -59.648  135.084
+669 MBRBTDGeOgmPQahUBFozegAuxPKUjq             52.451  -83.458
+912 MDFeCQZopmUtRdEEsFStwYnsIdzqFiMYCbtMP      78.907   90.782
+468 MDsaSaAFLHpAPI                            -37.811   91.832
+276 MOZAVsQUMLQPNUQxsbAXPmytBYmcLneBeh        -18.485 -178.811
+926 MTpvPOhpobtNtnlUqwAsGG                    -59.201   19.594
+170 MVNgylUqoenakespCTspKXYNasQKFuzpvmoGOzHI  -33.940 -167.480
+418 MZTWQwawns                                -29.859 -136.806
+296 MZvcVqHSpvAYplMXVfnjcctUzcibWCbDQbWH      -78.847  123.169
+402 MezdTednnWBoSTmgMEcnkgHLdFBkApSTD          11.845   62.465
+509 MfGvF huokBiDpgF                          -76.184  -68.925
+518 MfbwWIruARzhllJarg IG                       2.225 -110.522
+940 MhFqvpEqmtRsttIQYKfVAqmKWudsPDUao          50.422   40.143
+212 MufLOtlPGhA pVNM orJfZdxpbaqjUAlMt         44.517  -46.142
+609 MuyqAzvGaMGBsyjxJX                         17.554    9.053
+572 N iKnjlsZnLSxyZGhDnqOmaPUXndcJJor         -21.957  104.425
+620 NBTRGPFnKwIJhhNeWOQWCSBJNvnm              -12.930   93.832
+146 NCMhpxFFEnLmLsUXkfJxeJKBxTPWz             -18.882  -22.758
+614 NEqFJtukiVlqSzlZzZYq                       14.348   60.814
+559 NMcVkUzNTQMMraYJQxLxYENbZPedVYVttliW       -6.084   71.171
+489 NMgwFErKNyUUxmJOxT                        -75.364 -102.345
+963 NOWsLnkFhqgNoHFVESpqANYibnnHewdKyYk       -86.414  125.159
+263 NQiAVWSQEH                                 34.979    7.764
+496 NSEg WBapLLNkSvm                          -19.010 -153.902
+921 NUUXFElpowLl                               -9.535  128.667
+772 NVaCzoqbbJ                                 33.397   75.557
+459 NYNEmsqVH eRJMdC                           88.874   26.327
+190 NeRKurKmsqDJV QsdVZXUFvjJDu                46.441   49.269
+521 NfLOkwrWtmyuFKcNerzGESpFEEg                62.718   54.274
+172 NwcGbtgKmqLYxRWwB                          45.056  -57.048
+909 Nxix vjAWIIToCXLgUWuwrAm                   17.740   71.676
+120 OAANZkzihzGEK                             -67.569   61.488
+700 OFnarhFNhp                                 22.498   83.630
+905 OGfQcYcIAUaXweqDCPKoHMqeoxCILy             24.153 -165.170
+312 OJZigVBeMJzwPvBBOvxHZMhmcarYATG            27.950  165.487
+836 OLnvHlokIMnHLLPoq                         -60.480   17.577
+613 OOmANrPwvdwQDUDotxdCPjvEl                 -11.169   52.302
+463 ORMDBDzBSypVChTyR OukrgpemorUavbJ          64.358   85.416
+300 OTCiiUAyiw                                -38.960 -169.341
+237 OWTs OPpswuNTWQwKu                         58.089 -178.737
+634 OgMsAdKzHyPblgZupMJYixXVPSSfSUVFPp         82.467   -0.820
+266 OkaATskAGBherbAILMJHoWFpmGmGaRjmrmV       -43.695   30.115
+924 Olq ITJrHAIAHE                            -42.999  129.696
+267 Ophcsua KnnaTIHBkErZ                      -11.286 -169.623
+189 OuhVaoJTJ WDvMDRbJvxhrnxNvMFDgppysvVZ      66.386 -167.054
+563 OzlnorzkBwRIYQDJFvIVvl  ROAFtKgcN          18.343  -96.162
+473 PAUibQYsXTHyyCKhuXgUuGoY                   16.284  -20.950
+432 PAViWCohuIRWhqDxuXaeDAqYZO                -60.935  151.004
+382 PGHaqTUyxmVDIwVAGQedGPe rpgHlU            -71.858  128.179
+430 PJrqIsLCQRyLseiGPkGdZgfKOVNwyqcNw           6.420  -89.039
+183 PLQmCBTKPrU                               -57.434   93.574
+879 PLqfaeljhRPbByloMlcXySqjSeSmYBovFwx         0.479  -33.352
+955 PNeyzhWPivjbRMKaklDhobNM                   68.234 -163.765
+736 POeu xwHAFvfit qPuuDukssQWAwZh             50.664 -168.848
+436 PPJRIPxyGLByrXotJULvcnqXdlMexXuyzfQ        79.920 -169.993
+604 PPqLHQrpiVxIjWBpLIimmxQDrq                -56.585   41.784
+638 PTZfMYGFyxBDHxq aQ seYxSDVUhiWOS DFfqkr   -40.194 -176.627
+896 PYSMVYIbtxQsjN                             16.722   29.252
+340 PfYpuZxq otrRXXyMOCmQtUdyPHzi             -20.317  149.395
+671 PfhOCkTlKKzD                              -18.554   73.682
+867 Py lTQheMDTBcjBb                          -18.276  -90.577
+108 PzYtiPbWAZfhqTMtNvptN                      47.300   25.054
+893 QBeDPApBxdbcKqXsYwF pHULcQaDytWIwjlf       68.634    2.419
+840 QFxopgTFpmtg JsvafFeakkPCIjnHJzMo         -73.527  176.459
+916 QGe KfqCjFqNhishaahdydQMquaqhRAzQWJci A    56.599 -150.756
+979 QHbwlNawkFUXGv                             27.635   -1.265
+230 QJfWGVJBwMSmsZQhIGvbxaiKOXWcHaEi           40.424   61.746
+837 QMZUFGSbcofXqcQKTaW                       -49.515 -165.051
+695 QVHgcvNGyZhW                              -88.599  -58.722
+656 QYeAakgvEzdcYjrgUHhMOOwzBBNfVOtp            0.828  124.117
+625 QZTuQ NE ZIgP nSyaurDuiSHUjwflfRSHBolF    -43.771  135.744
+913 QbbEfriZMsBpAQIuvIOutzzsrFUi              -87.242  125.217
+727 QhXXrqiTPgaEytAXMgdQUjH                     1.590  -26.300
+619 QlrOIcXdYwQzEUSz                           40.014  -75.368
+259 QomdaQskpGnWJqhDBdpitMhQIaT               -44.089  -22.071
+821 QouDlVuAHGEINkAzuBNkyqdnLeRXSzRmNKXJX     -66.011  118.916
+247 Qu ZykjhzdfbjlsIdtOqFqdFNxoE vrVzz        -44.035 -108.486
+285 QucRdxxJMVVflaylxuSV                       30.010 -115.959
+318 QwEcpmmGDbKNood                            54.653  -99.773
+290 QyaTQBIeJLiEeFcTl                         -36.891  -77.088
+410 QyipEqgmtM DWslZBQjNX Cy                   68.769  -53.528
+433 RBNhGzjRUuLg                              -80.636  139.252
+406 RJ lMzcqBcUqoiNgtatplEXU                   66.650  -72.283
+324 RQXVEZIcdqMcXujhPvLyyNK                   -87.855 -167.904
+895 RSkZYNPPCLVxyIf                           -65.221  -31.974
+888 Ra nYYOvWOifvxZpiDav jWes                 -40.468 -147.945
+456 RkPqtKZjUfZxMqzVAIuyrg                    -33.951  -62.290
+136 RkjlFkDjUHCnkJPSOZPYpllGwJiSfyrsL         -61.025 -138.729
+545 RtgRCRsmgOKcFYehLMIlrziCYBjjvtpRQP        -52.831   43.864
+884 RwUmPLs cOe                                69.885  -51.098
+635 S QdIIjJYDISBVOXUJHblRSMbORGWqmPkLjgbUJ   -13.894  -42.234
+265 SBQGfUFUjHPGCdmxrCXLwexwolr                47.066 -104.058
+216 SDFmLaSZiVltdrFNIcdGineXDHUjGhTxleS         7.318   66.654
+645 SDnOPHXjrnhsvsuDhcFrcM                    -89.855 -179.468
+434 SDxwlWYRSLQPbgBiYzYwPALmvnG                49.757  -47.877
+466 SGJIfhmPbDzNwmRtfnmcEOwMi                 -41.881 -102.034
+200 SIptPZ iYkgJStNNZvoLDbDdOirkhhSW          -83.243 -110.817
+947 SKEVww QrFoA                                5.023 -159.769
+870 SnARIXCQoHiUsC                              9.031  110.287
+467 SnhStzJHNbVXOafaz                         -85.920   24.453
+791 SonqGTedilNyTXMBjZWRkfntzkrQeyug           -4.671  154.306
+110 StqbfsdmDQVkhtTEsqfvAGxUtaTwZZTrAujlq      50.640  137.349
+161 SwKmFeFDdjCgygRBUArs                      -14.800   85.464
+617 SwMsxLrrIdTiD                             -24.595  -40.292
+517 SxOSd nFPOgXzlyxwmNUDzhgCmiF              -40.771  -38.604
+987 SxjAdnx BolnGNB                            68.208    7.423
+425 SxzOtpMcjdg                               -33.945   19.166
+807 SyVXIPIapNAEAF lUSpilrO                   -33.816  -96.360
+104 TEJSQtjMkkOKkPSoHGlUadmD                    1.733   66.289
+112 TEyiMi jbcZGKTlamfuGUNCnaezf              -23.566 -133.497
+231 THPLNSAEfjygoKkYxxUtkrwCeouRXSFoct         -1.940  107.743
+458 TLbwkiC jtA                                34.653  -34.420
+520 TOlCkwcNVcgnKZNC                          -30.875  176.393
+186 TPhTrkmVXTCDpWHQRcpmberTTgkyaC             -4.434  -18.144
+647 TPzxwDEQzPHhU                             -53.216   26.425
+782 TXfjsySaLBcpEkGXTiPtwYUxg                 -77.099 -127.353
+603 TbKsysBbhBCBsr                             55.797   65.409
+984 TgUvFnrrufGGXzUGtBRuZeSffZUtzpARHmyXY     -63.581 -157.819
+858 ThhUfuvtEdkjUwSSWecHxqqbQmZR               21.909   35.277
+600 TtPkYBdhnLXJkdPoxXHLKj                     79.225 -167.176
+361 TtlZ pzZvicghlqZRJnRC                      67.437 -130.143
+328 TtqsoLrAKCPJwWLDxZvcvLCkuqIRHHG            21.238 -101.366
+825 TuTzXgAyZXCEoy                            -52.618  158.513
+734 TvyqBwQSMaZNvVmpJsOhYqFK u                -39.264 -148.500
+268 TwbGjtN yCzw                               36.372   46.689
+488 TxdQDfYpRSQExGPpIFEcubbtDmjyurAGkXL        85.123 -109.175
+302 UGoWzSziflDuGKePJcLcERnpUc g               30.912  -18.068
+332 UIXrClaCwxrzE                              38.649 -172.794
+519 ULKzstiCJy                                -87.154   94.956
+773 ULhJQULgNbMaxZBQcpHEYfStSTZIkzoy           61.612 -157.909
+428 UNQXIPKYinFYeklaong nWfZdPAQ                8.362  -52.823
+492 USpCTkUsq tRUpatFTqu                       -6.708   -8.371
+970 UVrXxokmvbtUpQKTVEvSXWSIxfrQFznPttybMgpy  -24.146 -114.335
+344 UZlyAhoMeRPzO                             -79.994  -79.507
+877 UgBRYzSmKBf                                18.046  -70.237
+414 UgUcjLcuJL stNMWmQdbqk vzpmisXucyqzHvFS   -36.181   53.164
+331 UwJqUgGhGxvflvaEs U HaCJKwmbNVc            70.618   71.275
+855 UwbAqAQvGTbERPKHDooJulyYLEndwcWjnOvO       52.329 -115.940
+248 UyiKKnUJeYkwzqIdIWqOMpIBePScs MH           76.927  102.564
+757 UzcEVTIdNkMzjZNeLnJW                      -29.499    8.289
+309 VEclIfQHVWoYtF                             47.921  153.248
+357 VHZeSdgNMDaRpGNsELkpKeAsZSvVtrhjaQbTAJg   -54.518  107.054
+526 VHexTGriRWVVHxjVFdgVTpfSGJgAECvvepcvIYCA  -81.531   -6.386
+677 VJxhnDEDyurCwwuyPtBfIcycHl                -65.276   23.769
+841 VSGVZetaQzIyfPBaJePtLeBKBTCtFsFoAkbb       80.867 -147.542
+457 VTKrOg yymcROLicBluHPXvBvU                -82.505  -81.684
+338 VYO UsHZpWvRVfMUHVL                       -12.595  -81.468
+901 VaCRqCn VLYTTKNmvtXFdJMiV dJHYzxTmu        77.790  -42.717
+184 VacXTBvAbeZD                              -69.656  -56.500
+795 Vc NsTEWobIxemsrwFoprFhxQUjulZkEvIBzzQfm  -47.825   30.853
+124 VeBfoGpPQBnwUmum                          -59.792 -149.549
+397 VeSKDqjkdiRPtGqqNWdQuPJZW                  55.581  100.898
+573 VgjhZwRvqvtkZZIcm                         -17.664   49.742
+815 VhkFSJACnp                                 73.481  -73.224
+608 ViV CxZoaoDpbLOuSVqNdiHmmFw                72.676 -119.543
+972 VjGmY MgqaQRtSqagaZYHpiM                    5.074   85.483
+996 VnYMzcvfBUxsKsdpPNl                       -43.772  150.024
+776 VtKuwZCpff  IvOPQBs                       -36.706  170.307
+298 VyTTNoknsFjWiOcXmqYqySHYQnSzc              84.412 -170.629
+823 W aWFJASpgzkdb                            -42.892   16.009
+233 W rOnuciLAZmSbsPsdKyTgXDFqpLLVlcqITgndll   19.993 -115.961
+476 WNXOuxaFoAZwLy                            -15.747 -131.865
+865 WQEEelBZJMnhGYGLHfzUdDUtfxbEhd            -12.730  127.237
+472 WUylsYeodhfseQInohtnpnWqUHsnhvAIs         -19.582  -82.540
+642 WVRpAxCvLL SQyYhRBcPQWkUuRjRKehg           17.959   37.348
+543 WXARvZVdopfldtcSnPwgnDVm                   73.664  -72.808
+719 WYSnDFgcXOCxVzSrvX qCSO ttSJkh            -34.879   21.871
+199 WZfrcsEDcqbg                              -77.933   82.523
+652 WaZJYyjiKCwqmixWMdFXMf                    -16.176   86.875
+191 WdqNYSNcQNlVuIr                             4.845   86.394
+447 We rnOrsLKCGdbnOeNNWUD MgoxnBWOmJV         66.590 -149.853
+220 WhrmmGmgYhP                               -25.745  121.656
+696 WieOCksHxgYCbFgFrhQS                      -40.640  -74.457
+303 WoFDwCUenVSyTZIevnNHWqzupzcVGapYLK         59.469  -85.890
+348 WraXEqGES mDVLqcFvIwnIvsaxvRJlqzSb         62.609  -26.609
+264 WuCxXdQMpuIvHait                          -49.962  111.721
+814 WzYRpChlFHVPqkhxme                         25.574  -79.091
+165 XEQMtqHqrizpGmZPwJXBMGvqFJPNSNAPvwNVFuHf  -71.043   38.048
+702 XJfXSpQMawQwPmq                           -86.519 -144.543
+471 XLzRJTansAZexYzKdIvf                      -64.490 -105.490
+578 XMoBDZMPqsbNhDoReDYT                       67.052  115.421
+622 XNConYMwhyMB i SlxOE                       81.503 -113.153
+440 XOshPpKKNuiGswkuzpEkVMP                   -38.049  136.958
+261 XPSiJOKJETEnrqxotxmYc                      62.201   57.170
+119 XRfwSamVpJQVdauPEhuxrzrCVDMvfZYdRgIYLzLL   29.164 -118.833
+945 XbvxSEgQ toVzzFGhjiidEUTQy                -78.328   -6.398
+486 Xclzgklcpf                                -34.306 -100.410
+974 XcoulsfhCQMBomCSpVYOCJUpcbDTCVMcZmTeYogw   30.768  106.884
+775 XgGJngDTNryqoPWmsk                         77.307  159.318
+897 XhUAkwRXnzo toextlWlVksbJTfJ               -5.693   14.473
+670 XjzRYtUPyfVJZLKrOkTwGmQJZ                  42.319 -147.968
+527 XkugCPbozcTnqArFvJcRKvJUPcBlNY            -80.414   33.097
+560 XnNmwamhgBHALQr                            -7.758  -73.292
+277 XnjXEPruuthnYpzGGJWYMmg                    13.611  145.592
+343 XqFEgjBLcJpf                              -86.544  -36.016
+889 XrXsmeLZUsgoRYJEtDbmk                     -32.773  104.601
+131 XuC XSCxnQtDKliOasnSs smJaaeJN            -69.490 -160.850
+524 XunsuGyRap                                -74.834 -146.953
+646 XyBnKelnBYMVADUucepjOXKSXjKOm             -64.579  -71.912
+932 YBKWkIJUVAbhFzRkflO                       -15.693  178.500
+952 YEBcqalvTDAZLeDlOHAZjFYSdoaEpVNM          -23.568  -34.938
+192 YGUnOmPPZoCNdtZUVflItuFulMoe EjF          -37.153  -92.705
+226 YINQJWWKMAqaISIkRaldvuFnsDIjJQ            -69.805   -3.415
+929 YJLrJsreEFKMYiuQISseSpLqPYz               -86.555    3.008
+352 YKHONBnXoodOCkqUEQLKcFxuiHdp               -3.608   -0.469
+760 YKJqREgqWaYHDbyljqpIEm                     22.383   66.970
+883 YQWRpwr QumKshisCFaYLsEU                   63.720   95.517
+754 YRbJAaIuTP                                 -4.348 -108.778
+582 YYjOQrIGvypODHiRCqCelIjRgiCJ               16.640  -18.880
+196 YjkqWWstQCCmrMBLtHGSYSWZShBBSucSfeRwAd    -10.915   -9.947
+223 YvZJWgVYhHJeXV eaZBaFUYepCoEsZAEwGZMs      60.748 -107.197
+494 YxImuYx FRjbFxzCkAqQOGjykWaC               87.308 -101.598
+314 ZESTphxHCiLBIODLfKdTyTwjSFjEYQ             67.241  152.043
+861 ZFcdAtsKbY                                 81.805  -94.037
+873 ZHVjnSybdKtkjZEaAmCgkNLQPriiHKZyhbACLxNp   72.955   30.471
+511 ZICIhlPYbxeyEVtqwZHBKMqS                  -11.982   87.691
+674 ZJwXRry sIddAIyaNilMYOnj                  -55.084   30.935
+977 ZPJgjYeuAzdvgVbsuvz                       -13.855 -136.611
+973 ZTOVPvQGgfBxCjBtHdPPHqlJelQyRLTZYnurtXaG  -82.075  143.329
+692 ZVg ILOEXhEJqYLdzohVftuM                   61.869  -74.429
+367 ZbEjmynMayaVkzMWTyaBJfBxwDGqHgfsDXPYnNY    74.755  156.512
+685 ZbmsEdOelYtTiSSwynmZFpYpJ                  39.777  141.740
+768 ZkTEWxMpY FcUDKBXe                         -7.375   99.890
+576 ZoYPsfvJbkLnvbfZSo                         49.795  -57.866
+666 ZrBnnGS WsHaxQgUHwceUAxTpT                -67.759  -89.735
+644 ZuKgfQQudzuIAchlDbXWeftkmVDlncL           -21.962 -151.747
+742 a MOelGMXurxdrgqkZScu                     -88.723 -104.664
+672 a YBxbbHslsIqdUm                           13.544 -151.977
+193 aCBNsBzMkRnTKvzYbZwDr                     -45.444  -89.140
+101 aDgHGVoPhiletJRRkfG                       -22.008  122.743
+448 aGaqJFmDEDW                               -46.824   95.083
+169 aNvZZSgGiVThycNnNgyBPIyLPCxo               -7.746 -153.076
+850 aQimRofeieaxU                             -83.806   67.655
+927 aYKsLEROdDPFNmfIvoUGAi                    -61.434  169.546
+949 aYTjLOtSPXsYDFVDIpHlzOwXDSPHmsngBsRf       17.761 -142.017
+501 acAEbLpKGkpOQytlMECBDSvgrCxqeYpaSk        -52.926   54.870
+583 afmbfVTVzralYKc                           -67.543  -15.130
+275 anehRJBLEhqmbiPkQQtix                      59.060  -65.504
+375 avdfOCGQDtxYJ                              75.229   72.128
+564 azKJFKAHKIaHQTZDQKzrndo                    49.765  -38.800
+229 bBVriVzJgZBCaGMjpUgemgtwz                  24.588   -1.399
+516 bSYGxhkftU Hbwuh                          -63.421   -0.568
+469 bVaMkzfwcxVIWxipgr                        -16.895 -118.337
+242 bXhtfvTMbiEgvvQBQ                          79.713  131.159
+936 bcBiwG ikEzq                               12.053  -75.358
+868 bgTbygmofUHNGWhgvMVNPKQYOKJCpsjuvAm        61.620 -160.734
+162 bkWPHTQIRqI                                55.826  -10.775
+326 bpwufHteUPnaGiIbisHFysrUVGBAlgYFG          67.603   -0.246
+297 bszfGHZIbmDxq dbJdRVyeUpaj                -64.534  140.017
+845 bvQwJFbsJFGeCcAjhXvfEx                    -63.154   53.182
+771 cCPSMVNyityvRhhFqkCHmK                    -64.415 -107.644
+346 cEchlycHkjnUJkdlfmfWYNp                    19.326   72.880
+525 cG IrbnTMveZoozRGwGEeSvBKnMECbof           54.482  -83.335
+649 cHPdPWTVxsZ gcBtcwBxcz                     54.546   91.855
+479 cHxKPTYy CSvBeDIIdUoWiFTLZVki el            9.529  -56.709
+383 cLWmkxbfRRwXHwdPt                          43.232   -9.599
+321 cMQGb kNMquXaMt                            24.214  -29.794
+311 cMS OEqxmqpVBJasmGpgZpZq e                 14.539  115.715
+208 cQtBOBmpYfaPmbFJZhWy                       76.307 -139.469
+125 cWZCcWGoCnyaKXbdUO                         73.228 -104.842
+117 cXFLzetIvLtpVcxnOWIvZ                      -9.233 -179.563
+788 cYXXegJVQHcPiXrdYL                        -66.556 -133.719
+686 cZmGonFCJdJxG                              43.649 -149.018
+632 caHIMlYhH n                                -7.603   86.303
+579 calsBlQBkWSDRYsOjMKoQgUjQ                 -46.582   -4.470
+651 cbBuEsOMQKFXeiWNoNdZCGrjms                -46.718  -71.899
+493 clJXyXjOlgaKLnEtUWhDncbMKFMqOPveegh       -15.727   80.291
+235 coBaWJxfVaGfJl                             60.232   25.567
+648 coG MfyKwHOcUYixrP                         47.621   47.743
+819 cqEOcLXDMHvgNOERXW                         18.181 -171.571
+232 cqPHiM OftkDImfwnUwJElPiUBBdlKIVM          40.598 -134.929
+372 cuAglSRnXvY nzwNmhFRTkXDoGdABtWQ          -14.023  -20.706
+994 cvYWXaMboXuKzpTpJrxYch                    -17.738  -16.560
+535 dHfTuKjPuWWkaueO                           89.404   23.462
+438 dIyPsmVAvoVkxh                             39.224  156.338
+168 dJQKSOyaDPuGgpvmUoOoRPvpDROoqrnuxcCQs      86.827   94.248
+779 dNNJXuaCJJbccPTrXfRGWD                    -79.449   58.060
+637 dNfhZkSvvwDQcXekeRN                       -48.885  -48.105
+128 dTXStwXErzQwteWUtZYzQVsoT                  -8.628   -4.678
+288 dXYrd IAUSSMHfuynFbR                       -3.696 -114.890
+557 dXnUEHicnXd                               -71.129  -28.520
+424 dYxwNrTuDLWAdXcXFKqTsIbI                   27.662 -118.646
+159 dZZcRSLmOEHFhDJbDEAwQuKJZMfeoguCCSn        -7.170   -2.379
+412 dbcmRwZgqMvgNKOhyUK                        16.909  115.229
+354 dcMKkbECceszZ                             -10.681 -111.606
+250 dkZJmr eUeoCC                              53.258 -119.566
+880 dl RKPvfGAEApEHmbavZvUgVcEqfFiH            71.635   15.072
+157 doCMDSgpBemLDNaWOCbMwzIC                  -27.678  168.108
+999 doGoayI qacZzzZZcPbTmEJjZ                  31.212  -48.494
+228 dqqX LYNJlPDmGYSWHALxQ                    -25.095   64.802
+151 drOqSNfSrZWbPUiEW                          70.475 -156.088
+770 dtXYsuddKl                                 30.604  -72.835
+337 eHiassbmHEgEsuYMMotRgJylfwf                72.294  -71.842
+982 eLnCiyyQUz ApKAYrO                         62.794  -71.964
+240 eMDgqMONhjMqEkGVToZJIpbNEwgWPXsGTptrwQ    -41.414   -8.839
+514 eMrnkOqVvAvksfyZHYALcryjTFBwHQNz          -10.793 -171.015
+377 eXMoNzEIdVVdleUvlqFQiKdnZxzLpj            -77.057 -173.639
+881 eZOhYufWLOLYWYXIzVeA                      -31.961  -87.660
+856 eZPBMnQELA                                 22.951   55.187
+515 easNDaoLsdMk MGKxvgoyLSDSHWEqrwxsguQDX     10.653  -58.421
+102 edrhfCHUslFVlFjAKKAjWuRZ VMuEBNnxFJ rTPV  -65.594 -162.940
+661 elgXoqRlJhGJdzUQjRRNTa                    -27.894 -168.639
+808 ernXJdxLzSHi                               59.117   58.697
+846 esCdjYbLwKX bfFQrKKMdlFlcpiEHVzLU          30.280 -126.711
+592 etWRNEuIvraFnnIsuXyQvWCfCjqM               56.871  102.458
+707 exCqHSzMFWB jghKzlcC ggJ                    5.573 -104.042
+958 f FkKFAiS qnrRnlFakwYYWrhcoradhK           69.813  -49.131
+721 fAZlOZiVHfZxQ                              39.719  -84.587
+289 fBvRItEVJTyzvZgVoErjyvCznstxZlyBrzIGRM     69.149  -62.658
+487 fMbIx FSrAuOyyjzLxmhNSl                   -52.899  -87.113
+508 fVigrkjhXvXsdEnFBxMFgWbaxsYfE             -50.138 -155.660
+140 fVtsOHKslyumkoUlgc                        -24.338  -41.272
+546 fjTFcfjuxhclujLHQFitvHOuja                -86.666  178.431
+130 fqhEVrwEJtM                               -52.711  107.868
+961 fracVElNOQjtCipauuhRjtJnrJEHQT            -51.026  124.300
+741 g AGdbBwstronuHWBcaqLQPoDGemA              63.403   44.664
+306 gAcGccyrfthinZGIcwx                       -73.804   36.395
+495 gBhhIqRfZqUrXXyZCXKrtxoXmZBQRtMZVFVicJB    58.807 -123.449
+561 gESLsdLqvhSlZhyEbUpmMTofeoYEDZrIosraDkQD  -67.254 -132.384
+703 gFWGhQPhZHhqBLJqcbMcuylzo qL               80.294  -46.229
+510 gLtDnRHkqdCaGtOzNOOdB                      12.978 -141.082
+475 gSurmdwguNKxIj                             82.268  -39.606
+601 gUuqDJpTLxHQVm ckNtxBpTEqHQU              -26.300  131.792
+547 gUyhHPKcrXAZrhCgQtXoV RLjFryXVbfqBEDFF      4.310  -94.097
+809 gXoDGdxLOdBbEEqOzCIudidZKYyQUVq             7.498  -80.783
+966 gaWGrUqTyiXQceyjjgrL                      -36.911  115.914
+570 gg GZDwcrMseyYuUdqMppEYoBTZLgWCWB rVxfbg  -76.163 -111.813
+834 gpZnosSRbDvNVq                             50.041  172.004
+322 gprWAOMNPEwtnFxQndSlbmMBxUjvWdVzHiCmCUgV  -46.913  100.861
+803 gprsPOUJGhMtpBQZgysMy                     -34.157  -96.251
+373 gtzrNwlgcqipXYpBGizlGUmJtQkqOq            -56.358 -121.556
+502 gvkWNrAxMLIGAsmFN                          52.657  -36.828
+114 gxADEiqWWFZvspMzEppoULKxM                 -38.790  -26.643
+107 gxpkV lUgRomJvLzZGxOiNE                    32.135 -132.021
+919 gyhJjLJiucSBoPQqBxYRprQqLTTaC             -28.916   56.815
+933 hAoHkHQMOQtk ahEaLNwZriLlEToKbBxhsjD       19.218 -173.707
+555 hAvGRzcHpPYZuOWjbHmiltEeQUf                 5.629  104.336
+778 hEPRGlWMNlA                                84.785 -137.089
+980 hERPdSHaupmt yHxfKnz                      -48.847 -179.828
+872 hKuyBOIjLltJdOghkonUcuKaIt                 88.992  -57.865
+256 hNaiXHqJYPBgcZRtnKX                       -18.464  -49.375
+203 hOvZcUOfjqihXEpLvDdOuUqe                   -7.895  114.731
+738 hPmzSQFfsfHHWDoEz                         -15.388  146.888
+334 hPzMmkSLgwio                              -60.286 -125.869
+137 hRXUDUpgeydCuhbQmYosZpTbZnDT TgK          -76.820   -5.706
+470 hSeYpODhHXuc                              -81.829  155.830
+536 hTaxioiYvlqJlmllPiRDAnDotBUeWtvoAfR        81.532  -94.661
+785 hXSsnLMVupzLAYkJ                          -13.724 -158.354
+690 heVsHIjOlwekBJwoUQqQTbn                    49.870  -88.941
+762 henKEbTOSUtesOgqKDlogfvT                   76.173   -9.152
+934 hfXuuZGlXsbHHLD                            84.265   73.799
+270 hoARAHOV T                                -89.592  167.875
+658 hojGyqViTM                                -78.446   91.789
+329 hshaiXMGhwB                                77.256  -16.364
+548 hvpJSuElew SEfaKsHTVNKyKdaT               -79.100   -3.191
+612 hy CBZqImwZASHPOAJxkC                       8.880   79.603
+745 iEHzKeUjQFpnVWAZiLfAupt                   -11.454 -146.539
+740 iLGQPsAFTvMYKrMZHPEODSgUnHfJfoeE          -42.270   52.207
+739 iSom eAbulHfTXqGjJbwHe                     10.460  -89.690
+164 iTZPeRwzABhsgVOpVLnS gnwLXUsBOOXWWpQzE     52.498  -55.328
+857 iWELoGQOQzFRVgR                           -84.872  101.991
+722 iahCZHOEwNFjTspPeCyWkp                    -67.981 -167.425
+411 iaifavcAtaOkVWVCstUJvMQGKEeFVrevwbexjMUU   85.646  169.603
+640 ifdDzUQTDLPSKDiVwdTOsZOvuNjvtBwde         -52.749   53.177
+362 igPcprdKEwLhgSMaivxcgnKvAzbKGvazdoxFd      29.793   17.886
+227 ihrua c rKFijtMZrjo                       -86.221    2.089
+786 ikxvtXX YjmNYWTaMAh                       -46.732  -40.677
+891 irt KtZYKAj suvPNiuHnNAfHka               -65.973   28.061
+173 iyHMBBJjssYoITddtjPv EXTiYYvTVlpClMY       80.853  102.554
+584 jBcuYSqvudOhVSpALeiiXfTqfGDCNoMOBsdvn      -8.970 -177.124
+942 jCGhFSpIpAnw                               56.611   40.608
+499 jKsk UibAZbrmZ                            -35.608 -101.501
+255 jNoMhSHJZpLdIMkCJzHEkWlfiMBodpUfPW         30.624  141.113
+308 jOBHWXr ylHghKZMWO                         -5.690   48.756
+978 jOVJQpmOxRfrgrK                           -20.905 -108.054
+918 jPBsmasalMDneIVKxfiWVgKBTxCbGSKCKJrKkeV    -8.240   34.356
+610 jPOypzJUYCJk                               12.563   86.881
+887 jScrCmQjfSWIinKLsccE                       24.489  135.777
+152 jWQTQPQWxVfwUgqIORC WBlPZnny jUDhDRUq      53.747   36.309
+597 jaxEgfTJsfCMzLRRmNgHkuvMTqjVMrKKWbAWL     -38.448  171.106
+171 jbrvNCUYLelWhKqQZlPbhInMGpUDnVVCqUsBdtrR   34.191  -67.832
+323 jgMoITPJsAcWZM                             75.245  143.871
+369 jhaGcPeXkudhMYCcFnUSHtqX lUi               38.508   32.947
+507 jmRILWlHOPHsacULMzNZ                       75.258   33.263
+174 jpjUZzbRYetXeqT bEGbGOWc                  -39.143  -88.443
+356 ju QRuqdhtYPXvsmUxCtTOmt                   49.251  -75.881
+556 jytvWJxr sXSuxJb                           53.122  132.487
+995 k wAiGbSBUudFyNaLjwoJcWyZ AyreOTD           6.794 -160.477
+269 kCVBsEckgNUyORVdcSVMF DkcpLK               -0.695 -102.966
+558 kDZqGWbwExyVaPFIXyvBnxHbhkLcsoU           -69.810  115.005
+731 kGIIGRzcVFrDFHUyCsiI                      -60.936   30.540
+908 kKNrgiHzdkCak EbOBBVkpnOKSirolJ            59.233  -94.632
+602 kKTgQqVzphEpzhwGIJfADMSOVheBiiRtV          35.126  -38.022
+813 kOBddTSbbCeZznKkM                         -81.803   24.019
+680 kPJpxmHFecSOTLesxZRFTrgrZUx                19.506 -119.894
+607 kdeBJZRSoMEAnGGBxDinRhCutp                 24.863  -66.831
+451 kedtqlXOiOaKPgpYSYztpI                     67.790 -105.167
+631 kgeCZrVegNPPkLJZHsqRIeQZROAhyvWAZ         -49.196 -179.082
+567 kiYBfw CfEpesdvVadMhdbGcnZTREvokODDqisI   -70.398  -61.018
+446 klOHhyrKfCGBKhujO                         -62.781 -158.791
+960 klXSkCHTJer                               -54.927 -167.454
+805 klsREca KlDoLbsgctthsyOzlRGCXVWZulk        74.145   18.696
+347 kpjcZQDyfDxRcmXMRmgyuRCyjOxsI             -88.324 -101.567
+910 kuVnPWwxhRuVkhHWYGpjOomHkxCsPDGavw        -27.590  112.017
+550 kumJClNQjbW                                13.295  -15.593
+585 kyxDmolufow FPMXtkNfjpcXBUpUCa             34.696   13.401
+505 lBDKSoNGKRFOqrbqFGqepptcDFTFYqCJZMcBKC      1.587   78.272
+554 lHodmYSZcxFlQxaEnaXNMTOagZUUGfGm          -63.620  -20.459
+595 lJPTsRsVYFhnfpodmLJCMSYJQEQVvDNpQDCw       11.689   77.098
+333 lPCvnRPqLIoXjXKwMYCOIhAUfaIxizfYZLZ atzN    4.146  -69.915
+464 lQWWDRKvDlGjcFzOCreezEpEMB                 74.991  -19.261
+667 lSfrwWGPEYk                               -82.908  171.852
+871 lTFozVmcNCs                               -44.548   28.201
+143 lTuXgviLrwcgXwrVDndh                      -47.683  154.634
+849 lUDFCoYFoPaXNcwcdYzJDWOUWAj                34.951  -72.623
+179 lUDMsKUGycvoI                             -60.163 -102.887
+166 lYAHUrqsAg a                               26.186  -77.889
+176 lafOzgXRCVlFdcORmFIGHqDikqWwykENSnURolA   -43.744   79.360
+409 lfiSSZsc VFStJSgOGyqlyFPQiCaQrGuXzlVt     -76.103  -20.681
+134 liDgRngWJyYzxy                            -45.092  -23.876
+364 ljrCnxLtGq                                 27.815  -77.118
+236 llQRxXpNmweSmGrZ lRGshdavrGVqOUzz         -50.637 -125.312
+683 lnnqBWzUqnxIeTh                           -54.144  -66.715
+761 lpGExxzSkqcbuOSLE                          58.608   52.957
+313 lqTCaLfybvrmK                             -39.445 -105.686
+892 lqzynRyJAaCBl vtOckfWvuqmmIhAPORIU         33.310   39.272
+676 lrqryVBXBLaqLFFu Lj                       -72.917   88.759
+325 lvXmfCUokPBeVNAa RpY                      -82.674    7.782
+596 mAzARRbseJIdyVAtrFxnjeDNSUFwlTo             6.892  151.864
+701 mHCTRiPYEFmspXUojdSKLqDT                   54.924   47.833
+911 mISpHQtTZusaFbYnlkvPfMZTfySNpTUzAGktoKf   -43.645   67.418
+717 mPn biFzKmyHhmzPbQXxjztOhZrkhAHjoznXwDL     2.252   34.505
+291 mQNQznReRQrNF                              34.256  147.794
+726 mStaJCDtkS NVTVM  JWNlGQfxkrhyUBqZ         -0.466  -83.274
+244 mXkZFKsANIZSKZiOjGnilvwrQ dRNHpnjI         43.979  -84.839
+654 mdXPmbKmjoiDSwpTKadS ypAALmSlhDYrWrBU      57.983   16.373
+704 mdulqokAcRlxUI                             52.738  -38.031
+822 mgVnpgeBkCMgR                              25.720  -66.146
+315 mgo hZXtQWeOLHpCfAkQihCqfiFA WuRO          74.635  126.108
+341 mhiaVcTLacKPYKwLttCuayGavzT QAvTKGbtH      54.965  -76.351
+482 mnevZFsZJdKVE                              31.623 -142.364
+618 mnnyVZUkWp oHoZTVjstDviBcdWuprq wtyO       11.736  103.990
+111 mpQNFbZmiwLEcxHFEquiyQzmup mdBrbn         -75.023 -145.412
+474 mvNkXkQasPCgTIGSJzSIvVAgItFevyTDS          52.811  111.872
+804 mvPFLlyxKOOIKfgARDhIEYnH                   66.619  141.602
+305 mznAUPjUCUThWEsiPgaJks                    -46.004  -44.353
+480 nEeanxFeyVTUpqkPUldLEKCSa                 -70.043   94.261
+859 nFPFRRYWIy                                -80.178   62.922
+985 nIAsJppeDYvJCSL                           -76.787  135.999
+359 nMCDSykvQEDfPenKTteUcqiAEHcljbw            62.380    7.218
+894 naXgIkOMQTMsLFPlMYAfNQRjrUGrsQdDHDWA AE   -33.181   24.880
+219 ndwEgjEcGrJHNNfQGPS                        38.421   48.047
+549 nfWIQEdTYxEpeXYQJZu Tt                    -78.596  146.709
+817 nhzWJfnnHPn                               -48.053   13.940
+863 niOrfOhFodbhtbZbRiDhmLpj                  -84.327   -5.395
+465 nldaiHInwVaC                               80.499  133.417
+274 nlgxUrBheHxXftZZvwOAwZmNQTKevVOzM         -61.100   30.382
+245 npSSLa fCAUCAsUhvx                         36.561  -88.493
+400 nrKTxKjqQpFLJmJlurQZMirjSoqBKBtmcMZq       82.437  -29.431
+688 nrYIravNwmisOZZAlwQdJIIqcmRqrDV           -13.848  -12.997
+345 nxfkEaozAINfYUR                           -80.981 -172.421
+503 oButGRAcUttZYRWVUCG                       -71.623  105.261
+839 oFvlDgOymDpUrOMNWhuYBlVWuESWbVBcHJ        -25.920   56.712
+589 oGMLXvyuZek                                69.267 -163.888
+725 oHmGunuSRlyhHTgJHcwlmCjgNXnfVklH          -15.277   50.591
+118 oJvaIkdoqACgdYJduzKTuDLQqKxAhwTkvX        -43.400    6.421
+210 oPCRqaRaiDjAwUCXA skJAMTHHMEtYUoDEvLyB     32.295  109.873
+864 oSmawGgNdJASigHsnYzi                      -70.605  112.309
+975 oaEgQFJVqMyqyxbsDsWhfo                     59.041 -170.038
+287 oaJdKGB XtKwbNhnZEHyoS                    -66.203    4.459
+923 ojMqJisLaozUsJjlwvACdfvBdD                 86.501  -29.632
+838 ojUDPerBfWPoJxrJvWiraJHuMROWKkHRCjCyVKsM   26.426  -42.425
+750 onOiKmlau RytcBjVDFPfnqHS                 -45.277 -113.269
+281 onlvqCSAjpsfzVsg                           43.713  139.265
+429 ouWhjG RASnnYJpzv                         -61.772  -52.912
+115 oxIvJskqaqvFcADllZ                         -5.909  128.244
+522 oycyjdBqN dfj hoj                         -25.720  -12.366
+116 ozmLJfqzLhlSqROJfOrijTYdFrQTfXBENYBKlsYB  -72.562  -14.736
+221 p CDDDuYBmrkWGSLinouekugZgJVMPDpDLJi hfH   12.529  124.001
+282 pBiPvWHNHvrEQAdhZhIHMTpmcUgvip            -12.787  -76.933
+580 pDxCknVhOv suVlcXKqeuwNEnmauJQbpLtzJSwe    -3.475   25.020
+939 pDyZGFFaNUNVUczlUaPKPNXZXYSgOs             -9.933 -129.065
+748 pLUafJcavrQcUIc                            -1.221   27.728
+396 pLsAZWqYTNTLbtGtXaZOeROTeHaG              -81.103  -12.455
+542 pOUHT LjNPrjauSt                          -30.653   -4.424
+571 pPSSQa yHcSXaKm                           -58.688  170.912
+353 pPvxwHB LkrfTNeWw                          -5.259 -109.139
+380 pSpJpbiLfTZYgmUpPgHYrRwbAO RZAkrQ          51.074 -151.776
+284 pbcrdNtThSHSG                              71.354   31.229
+214 peiGZXVLdwvxMKflbAyMfUnyH eQMEJStSQjCFAQ  -63.883   73.736
+113 phygM IqmEnCRRwUidqhhwJVVckJ               71.686  -39.889
+875 pmmMCveqcTHftFdjchYPEdrITEkNDMBsFbfg      -24.121 -159.329
+997 pruBNZhLGLhhhaUFn                          51.780   14.270
+283 ptl nMHo XESLFWJ nFCduCNtFMvvtToEhyJ      -53.302  168.113
+246 pubrxJAGmDRUpjADjNopogruKTZJPsHRMyFsuVw   -85.172   24.400
+132 pzUUFHBRrE                                 -3.737 -177.489
+829 qAGgIm IxnL                                -3.245   97.414
+455 qAhJTdQLOFdsWsIpDbhuYr Avqsd              -58.537 -165.984
+854 qDlCAHLsMXAVUJSkTJuWvTLcRAuszWQZjdEyLO    -43.435  164.093
+292 qLoIjjiAfNrwlRQ                            36.342   14.027
+956 qMkzpsAtwssaLDxJiUcLDNjaEzjwkUaerbUz      -61.605 -142.336
+763 qOpFNHqrbAPr                               12.427 -139.956
+194 qW gONxrgDD                                26.616  -79.183
+197 qYBppIMCq dmi                             -71.348  -29.514
+153 qbdohIttXfDgJWFNhBgHSAdyqEswwvWsCuA        18.983 -122.494
+553 qhCneGhThJZRMDAwzXsblKiDCyNXGyDqte         43.754 -117.654
+437 qhUvdru cwEewoDRWqiii                       3.068  -98.188
+907 qjRlsmLtJItbSwhovWFFviB                    88.886 -152.290
+419 qpQQTBgQaCpXuclEOJrL                      -71.263  -29.432
+712 qtVaCSDkphJNPXhJONoMKqlvjPGMq             -87.603  124.425
+728 qzmnLUzCMoovXOHFNRe                        74.085   51.926
+123 rMgSWEmNhvcmIBIOquuEhPIY                   17.880  123.042
+964 rQNwugwulfMzHqiCoCalHSuTCh                -89.914  155.621
+827 rUlkjpnxCZNkzxRpEzeaB                     -68.503  -68.685
+899 rYPcMLEtlIvCbZoSwYcHfQuRar WEtixu          41.576  178.421
+574 rbbyDtXgNkMTlcUEUGlwIRBSLxJMC             -33.676   48.548
+389 rcrIeZUvgkYxv                             -80.245  118.634
+831 rewbESLZYEue                               83.632 -111.090
+705 rnucjjNVJiYoEiONYDZqmQdWMZx EMHRL          29.035   14.496
+706 rozM zoQURRJGKWUoE                         36.248  101.160
+149 rpHJGmRIHdTJxkxVZaWedf                     61.867 -115.957
+959 rsbyWPNYicCHSdKeHKIkQHrW MC                59.192  -80.425
+842 rugHWpoGharOxbDtWsrNIEXtiQcA ecrVrd       -14.496    7.087
+830 rwrSqxSthFjKKYmWfJfZnmQxk                 -44.786  -88.105
+874 rxsNbjPWakrluUyMZNlAuKe                     3.793   88.298
+598 s KlRwmSBNUpQIB                             8.492   64.884
+158 sIDcnIvqOmawjURRshUrDG                    -61.026   -1.064
+630 sMoyETYcUfGXiBtI                          -46.553  -48.789
+537 sNTYqBfweIjkPrVpG MMIyhOoulVwxgZWFU        14.594 -106.311
+565 sVvJEuLa NrcagddoPezLihGXNb h               4.759 -108.024
+743 sXMWgbbgZBWmWqTlSbSQabbNIc                -23.831   87.994
+257 sXTVqTbvHNZeMVduB                         -18.118   17.948
+687 sdiVkwGOUGzSeICBFhcCOPntYjTaDy PA         -11.446  170.928
+835 sqOEACgZnCDHzzqXSLiBtHBNMooBOQ             74.278 -166.237
+783 ssQAnIdiFvf                                17.062   26.220
+577 stIBGYCTViWFBwPSUKMJLvKkDTQWanNH          -79.129  108.131
+950 stUObJJzCPuyayoQTehSqqvmKSrKKplgGui       -12.633  -17.976
+848 suaPGpgs YzRtTCRRBdj                       15.642   89.481
+534 tBgbGB AOTkjktWKMOpXlVkFFOX                13.192   95.352
+758 tCoRGivZlNhziekvvifQcfutELOPMUuK          -73.979  104.825
+593 tEIira uqC                                 69.109  -16.895
+445 tFhG OeVIpKKAeETlUAUbq                    -55.196  -70.439
+500 tGqFQJkZfGHVvWuzNWtiqr                     83.425  171.293
+188 tIQucgkArorkyGOkCAlCvKqOxC                -81.001    0.804
+902 tLZvJQAthNaUcpnHooenyaZTRzgNNDaLurHfaPaQ   89.175   22.573
+694 tNcRdcCdazAWNNnTbkrWm                      84.606   -4.660
+806 tcqNTfpfuODbVqhJ                           16.325   -6.907
+304 thSOCQGa yIROf                            -53.240 -133.188
+744 tioWKEGQLiTKlmjqYXdXpNueeuH                 8.799  -79.386
+209 tjLMQuSWygJvXAnUCKnnkFM                   -30.933 -143.037
+998 tjXMtQxnFgdgYIed                           -9.408   93.051
+395 tjlDzdjfEyUpDnGGjMZ                       -62.962 -132.159
+655 tnFoiUmOPXa                               -22.960   59.863
+163 toMVHLxYdYvB                              -75.349  -85.726
+431 tpGVmcNFBXmzJirZGwSTCszIqckNLyVt           14.459  125.962
+976 tsXuyMZQKJQzpZ                             69.510   -3.313
+106 tszZXSe aYXc                               -0.527  108.248
+789 ttWQsCdUTRypTNlj                          -35.490   27.009
+876 tyBnrFPBhnPSlnHA                           79.016 -119.448
+422 tzffOESsMLXF                              -15.996  169.717
+801 uBDayNIYIMoLGsgmYVxcFMDoTlxrYzSnKOI       -31.133 -171.841
+198 uBWTVIeeNkXsRLHQwSeMjrjDNVDvRliR           -0.958  -19.848
+627 uGyZzaRLqxPKEYdCnX QMNiaCjXtbEEWiHdrbrG    67.216 -100.609
+818 uHWcGYRfJvPpFrpvgin BeKopEXeIDw           -12.524  -82.539
+167 uJdfKaxgLnKBPbFAGmfXgbFFkSGloUnTq          75.214  -69.908
+898 uKCpZKLBKlpCMzR                            87.640  -37.410
+483 uKtJMeyHzbLH                              -68.049   31.845
+144 uPsBekPJrNeSFizYsCspCaQDSHjyrya           -23.179   64.896
+342 uWCVhwMuibAAZvohMUXEUowmhri                44.694    7.828
+175 ufBMwoREATqqjNaqHssKKTwtbCjfhaux           -5.512  -83.142
+135 uhrICMijAV                                -26.272  112.923
+733 ujbabBZOVmCYLUhkxDQRn                     -87.753 -138.093
+639 ukSYCr ZfWSSdnduoput                       21.509   79.991
+755 ukYiFB ZhevWVLkgGKRQkYHPPegB              -17.659  -78.646
+506 uknlSiDDvdAGhbGCJXyxBpLqVqwF              -86.270  132.439
+753 unRDMfyDNDYFsFCLsYi                       -10.438   92.899
+391 uqBVUMhTtHAFk                              72.196  -44.189
+330 vDuK VSbYelkmMRLfOqZaqR                    42.485  118.673
+591 vEFfRdnrszj iVoJqGepCCyksaeNPUSI            2.395  -15.862
+355 vHgUpArtqWAyA                              25.885  146.696
+142 vNYzWvWgTW                                 49.537 -153.018
+211 vRgSqcmjSvNkxaBZanO                        57.538 -150.653
+714 vbxVDRmUCnW oOZsZkgNPMN                    80.453  -21.215
+366 viSTaLFjlRNNLUo KpbXzhwsqzsEaDZIO         -55.062 -131.290
+201 viXsBSmsusKleoiraCSI                       38.067 -151.533
+633 vjwaBRJfXBVNwbPULN vttnkxdycl Ti           75.352  -51.274
+319 vkjMsLeOkQJZ                              -59.476   -1.917
+812 vsPFMOFXECdKxneApktZTqits                 -75.078   25.776
+937 vtdWXJYPxPvVsXmQeeurUhrFaqVcQTNSVwlRWl    -13.232  104.897
+195 vtfgkZqbMmvnbpAqnbquXgJuFUMcTCgsZam        82.784  120.436
+490 vvQCZNDZSKPLfWxeflTRzPJ                    81.522   27.897
+185 vyVbAnBSXkTS                              -89.844  -81.835
+485 w UnpLqYMQLkLqEous                        -13.027 -102.831
+890 wCsrEbIoagXvyIedjnzLedgwkpx shcY          -32.007   80.907
+752 wECSDA SpirbwVADeArsdHSxsUytHVVBJsnhVpP   -59.548  -44.553
+962 wEwCakoIhcVZtLW                           -80.610  -87.012
+989 wGjLkLYmGggh                               39.424  107.769
+869 wIALNAqMtqpfhcnN                           52.728  126.725
+697 wKgYwMjFpaAbZwyBTzaEnBLIerT mTE            86.808    8.812
+121 wOkSvqtiosXFfYKE                          -56.738  -93.516
+820 wQWwpVxZiCXaHOauGwjZkVgwLw                -61.559  -62.026
+928 wUNScPpZaWVQLoMAvFGPlxFiEuSMhMdUAIGAH     -68.439  153.929
+398 wWGGTNCJSPxtx                             -55.501  125.141
+983 wWYTucLlfoqJnfu BdAcrSRdyN                -69.285  115.465
+767 wdnHsmMvcLpZcbeACNWEnGkfg                 -10.846  -12.076
+991 weuxUNZeFgWKByidMsRqDolDmLbuHHPbWsY       -70.158 -130.339
+568 witeHTXvyqIeNoRwSvFQbSFrmVqfTTM            85.129 -141.601
+320 wkaKJrdZ cixhiuqCVzClITEPhv                22.729  -46.005
+784 wnrQtbZbXuGicKOUNDjB                        4.393  -94.503
+787 wzLuorPRhsDAguJjFLw fkNgEw                -78.378  -47.390
+386 xFijzvvmvMzHvaNrTIaSaoEtQSzNmmVuBrV x      77.335  162.417
+749 xGWEsmgTkGXgnBRgpwhUkSXYoQORrCJQVVsuAM    -20.307  115.200
+662 xLHBAsvCazUMmNVWLFHpszZp yCspXZPKEuTmfsa   33.682   18.523
+682 xLHpJCamdVeQVVpCunFMtaVKTXESVOGY           17.189 -106.113
+668 xNoepGOmfmUBwXAYDCQukY FXmbOT              23.014  103.744
+122 xOKCwcXzimeGyBnWowkRrhZ frWYDXHW          -57.848  178.392
+665 xOcZGjkxxoKhEIOEEnOKnXIkTqrNkjeAAsmJOVjp  -82.290   -4.013
+643 xQLVByDcevksHhjcZxKS                      -56.529   10.109
+420 xRLRDMcvFnmSjUBIedjEjyxoe                  23.142  121.121
+860 xSYEmAoXboc                                -6.516 -111.243
+335 xXRF rgloVzL xBWOFHUBYhspfRiO               9.630 -119.552
+222 xaonrhnfdbpgjfxyrOPLziOpAqFOjTUfOpXGhw    -88.537  -64.371
+150 xhlAKaCBitYdWSVjfC                         78.962  -10.315
+251 xiCVvVMytezk                               74.906   60.701
+765 xnlcPrjfawOtHxVKdmbaCMuUpr                 -3.463 -172.924
+826 xpcQHAqDhOgSZoYwXQuKFeAYGqtDABtUgDQ       -49.267 -133.885
+139 xsixAtaDwX                                 58.910   57.343
+258 xtODlxDAkgsqJlEg                           57.412  165.821
+903 xxWXbhG woZxpQusmRKywdfilxYdCTZQ           30.718 -115.691
+295 yES GSZnoZzVNGhecGUXgtLxXIibFWsoAZTs      -57.057  111.094
+381 yHpnKKWuMwkibhqNdbniBNjbyWqpWejqUG         35.263   83.027
+922 yIHVQClSWzzLbHfV                           37.095   79.418
+653 yLOSThUuAtKqv                             -19.983  -18.653
+946 yVpegJiFzzmJmImpCnUFoJPyX                 -81.615  150.121
+544 yYYiOuhSMmOuBnFeWMWVcMRgboPYiZXFgZhT      -18.003 -119.135
+737 yYlMMTesKi Yog                            -68.477  -70.645
+280 yZtNVuxsfCuhAjLhkZnqHvU                     3.559  -51.643
+790 ybLvuTDfkocMvlcj                          -68.476   83.608
+443 ydhMoZLexBFLjzGpg                          47.217   23.767
+403 yeinVkVXAoCOFKgarLFLUlaZTu                -59.466  146.737
+626 yfRjZDGegKOCeQnSDavFLQAyRkcymclfVQuWv      77.252   19.932
+938 yfaQoUHqsLyAzACwJfDdYtXfpyOHZSsPzB         57.801  -90.410
+732 ygQNWfifVIbBYsBGWKABVNmtifHMVwkLduwcq      44.273  -58.823
+723 yiM cpH bXEEJzIcuGXMccAJZzOtMxNyEB         87.387   54.365
+442 yjmawkwtNnIiF                             -31.382   51.435
+538 yka oALPtDSCAKhuAOtOLXtL                   48.015  -12.849
+224 ykqTxdNfVwZt                               -3.691  165.088
+234 yscekOSSonxcNNbazkNJNnKrZpp               -73.380   38.899
+533 ytMtGIhgdMITRIEk                           79.613 -145.333
+969 ywdkuvFZATpbggtjsMziKGJtzsQjE              43.349  127.242
+797 yzVesQYZpUTTiMTN                           75.859  106.883
+766 yzfzrnexwGnAl                             -47.991  -47.831
+278 zC naRYOPDIS                              -58.256 -104.243
+385 zDsKRjrWolJZBLFQySpUdA                    -35.941   92.626
+862 zIEcgw obGLqwiyRgppSQPj                   -11.775  118.567
+844 zLDnEnowSELLHSaNb                         -24.007    7.534
+605 zNfuUATtp gZzUFORIUfCiT                    54.859   64.419
+657 zdmjMQmrDzxYVEIUcPjSvwxBDScoKpJIZu         70.974  -89.149
+747 zntU Peyir Q zXCYaOI                       63.298  100.949
+360 zvBiwkKAVQXjGaCkXsrg                       26.403  129.237
+317 zxdPomxYHAHVAOlTnfwesGcwAVoDsyBSOdRun     -38.129 -156.197

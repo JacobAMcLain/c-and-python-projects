@@ -1,0 +1,27 @@
+ID  Name                                          Lat      Lon
+140 Lea Island State Natural Area              34.321  -77.688
+168 Salmon Creek State Natural Area            36.013  -76.716
+199 Bald Head Island State Natural Area        33.862  -77.963
+202 Beech Creek Bog State Natural Area         36.194  -81.850
+203 Bear Paw State Natural Area                36.161  -81.820
+205 Bushy Lake State Natural Area              34.870  -78.683
+206 Bullhead Mountain State Natural Area       36.449  -81.060
+210 Chowan Swamp State Natural Area            36.402  -76.905
+220 Fort Fisher State Recreation Area          33.953  -77.929
+236 Kerr Lake State Recreation Area            36.441  -78.369
+242 Lower Haw River State Natural Area         35.772  -79.143
+249 Mount Jefferson State Natural Area         36.398  -81.473
+258 Occoneechee Mountain State Natural Area    36.061  -79.117
+260 Pineola Bog State Natural Area             36.017  -81.896
+267 Run Hill State Natural Area                35.995  -75.675
+270 Sandy Run Savannas State Natural Area      34.631  -77.650
+277 Theodore Roosevelt State Natural Area      34.697  -76.826
+285 Worlds Edge State Natural Area             35.406  -82.269
+387 Yellow Mountain State Natural Area         35.994  -82.038
+501 Bay Tree Lake State Natural Area           34.678  -78.431
+578 Warwick Mill Bay State Natural Area        34.568  -78.919
+604 Bobs Creek State Natural Area              35.635  -81.935
+619 Falls Lake State Recreation Area           36.012  -78.689
+834 Jordan Lake State Recreation Area          35.737  -79.017
+848 Mitchell Mill State Natural Area           35.915  -78.388
+976 Sugar Mountain Bog State Natural Area      36.083  -81.896

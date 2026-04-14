@@ -1,0 +1,132 @@
+199 33.8616 -77.9633
+Bald Head Island State Natural Area
+501 34.678464 -78.430538
+Bay Tree Lake State Natural Area
+202 36.1944 -81.85
+Beech Creek Bog State Natural Area
+203 36.16075 -81.82027
+Bear Paw State Natural Area
+604 35.634657 -81.93469
+Bobs Creek State Natural Area
+205 34.8702 -78.6835
+Bushy Lake State Natural Area
+206 36.449145 -81.060219
+Bullhead Mountain State Natural Area
+807 34.0471 -77.9072
+Carolina Beach State Park
+208 35.2110525 -78.9774719
+Carvers Creek State Park
+909 35.432799 -82.25026
+Chimney Rock State Park
+498 35.7869 -78.6387
+At Raleigh Central Headquarters
+211 35.2354 -77.8932
+Cliffs of the Neuse State Park
+713 35.213316 -81.293555
+Crowders Mountain State Park
+214 35.587415 -79.180527
+Deep River State Trail
+615 36.5057 -76.3551
+Dismal Swamp State Park
+217 36.332586 -81.69064
+Elk Knob State Park
+418 36.0783 -79.005
+Eno River State Park
+619 36.0117 -78.6888
+Falls Lake State Recreation Area
+220 33.9534 -77.929
+Fort Fisher State Recreation Area
+822 34.697952 -76.67834
+Fort Macon State Park
+224 35.481853 -76.901414
+Goose Creek State Park
+325 35.097 -82.9522
+Gorges State Park
+226 36.11139 -81.8125
+Grandfather Mountain State Park
+227 34.671 -77.1429
+Hammocks Beach State Park
+628 36.250646 -79.756364
+Haw River State Park
+229 36.411906 -80.254122
+Hanging Rock State Park
+233 34.682743 -78.595423
+Jones Lake State Park
+834 35.7369 -79.0169
+Jordan Lake State Recreation Area
+235 35.9642 -75.633
+Jockey's Ridge State Park
+236 36.4411 -78.3688
+Kerr Lake State Recreation Area
+937 35.72871 -81.901123
+Lake James State Park
+238 35.672548 -80.9325523
+Lake Norman State Park
+139 34.278985 -78.465485
+Lake Waccamaw State Park
+140 34.3214 -77.6878
+Lea Island State Natural Area
+242 35.77193 -79.14349
+Lower Haw River State Natural Area
+743 34.390023 -79.002225
+Lumber River State Park
+245 36.4388 -79.938171
+Mayo River State Park
+346 36.437105 -76.701585
+Merchants Millpond State Park
+247 36.2639 -77.8883
+Medoc Mountain State Park
+848 35.9153 -78.38754
+Mitchell Mill State Natural Area
+249 36.39766 -81.473466
+Mount Jefferson State Natural Area
+950 35.7528 -82.2737
+Mount Mitchell State Park
+251 35.373724 -80.073477
+Morrow Mountain State Park
+254 35.8095608 -78.7018125
+North Carolina Museum of Art
+855 36.46768 -81.34035
+New River State Park
+258 36.060835 -79.1169
+Occoneechee Mountain State Natural Area
+959 35.804226 -76.449051
+Pettigrew State Park
+260 36.01717 -81.89625
+Pineola Bog State Natural Area
+861 36.341276 -80.462938
+Pilot Mountain State Park
+264 35.4597 -78.9127
+Raven Rock State Park
+267 35.9955 -75.6751
+Run Hill State Natural Area
+168 36.0127 -76.716229
+Salmon Creek State Natural Area
+270 34.630842 -77.649865
+Sandy Run Savannas State Natural Area
+771 35.861474 -76.356568
+Scuppernong River State Park
+272 34.5831 -78.4496
+Singletary Lake State Park
+674 35.5963 -81.6
+South Mountains State Park
+275 36.3873 -81.0273
+Stone Mountain State Park
+976 36.083347 -81.895652
+Sugar Mountain Bog State Natural Area
+277 34.6967 -76.8257
+Theodore Roosevelt State Natural Area
+578 34.567954 -78.919431
+Warwick Mill Bay State Natural Area
+281 35.1469 -79.369
+Weymouth Woods-Sandhills Nature Preserve
+884 35.8905 -78.7502
+William B. Umstead State Park
+285 35.4061 -82.2691
+Worlds Edge State Natural Area
+387 35.9939 -82.0385
+Yellow Mountain State Natural Area
+288 35.9661 -78.6328
+Yorkshire Center
+210 36.401942 -76.904984
+Chowan Swamp State Natural Area
