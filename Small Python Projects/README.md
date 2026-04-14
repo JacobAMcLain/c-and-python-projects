@@ -36,13 +36,13 @@ A Python program that analyzes an audio file to estimate its tempo (BPM), detect
 
 ### Usage
 
-### Install dependencies
+Install dependencies
 
 ```bash
 pip install librosa matplotlib numpy
 ```
 
-### Run the program
+Run the program
 
 ```bash
 python BeatVisualizer.py
@@ -50,7 +50,7 @@ python BeatVisualizer.py
 -------------------------------
 ## MovableBall
 
-Developed a simple interactive graphical program featuring a movable ball
+Developed a simple interactive graphical program featuring a movable ball.
 
 ### Features
 
@@ -64,7 +64,7 @@ python MovableBall.py
 -------------------------------
 ## Mean_Median_Mode
 
-Command-line program that accepts an arbitrary number of integer inputs from the user
+Command-line program that accepts an arbitrary number of integer inputs from the user.
 
 ### Features
 
