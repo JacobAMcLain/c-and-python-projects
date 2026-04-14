@@ -18,6 +18,12 @@ This project includes a full AES implementation along with CLI utilities for enc
 - Validates input file sizes for correctness
 - Encrypts/Decrypts by generating subkeys, then performing numerous matrix operations to encrypt/decrypt binary files
 
+### Compile 
+
+```bash
+make
+```
+
 ### Usage
 
 ```bash
@@ -66,6 +72,12 @@ The program includes a command interpreter, error-handling system using `setjmp/
 - Supports compressed file storage and on-demand decompression
 - Error handling using `setjmp` / `longjmp`
 
+### Compile 
+
+```bash
+make
+```
+
 ### Usage
 
 ```bash
@@ -86,6 +98,12 @@ The shell operates in a continuous loop:
 4. Checks for built-in commands (`cd`, `exit`)
 5. Executes external commands using `fork()` and `execvp()`
 6. Waits for the process to finish before continuing
+
+### Compile
+
+```bash
+gcc -Wall -std=c99 -o stash stash.c
+```
 
 ### Usage
 
@@ -109,6 +127,12 @@ A command-line program written in C that processes geographic data about parks a
 - Sorts data using custom comparator functions
 - Validates input files for duplicate park IDs and city names
 - Handles invalid commands and input errors
+
+### Compile 
+
+```bash
+make
+```
 
 ### Usage
 
