@@ -1,6 +1,6 @@
 ## Small Python Programs
 
-A Set of 3 Python programs: CPSTracker, Mean_Median_Mode, & MovableBall.
+A Set of 3 Python mini-projects exploring GUI and Data Processing: CPSTracker, Mean_Median_Mode, & MovableBall.
 
 - **CPSTracker**
   - Built an interactive GUI application that measures clicks per second (CPS)
